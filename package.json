@@ -1,0 +1,22 @@
+{
+  "name": "website-utils",
+  "version": "1.0.0",
+  "description": "Various scripts to help organise and make sense of the Duelyst card pool.",
+  "main": "analyser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojeytonwilliams/website-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ojeytonwilliams/website-utils/issues"
+  },
+  "homepage": "https://github.com/ojeytonwilliams/website-utils#readme",
+  "dependencies": {
+    "request": "^2.75.0"
+  }
+}

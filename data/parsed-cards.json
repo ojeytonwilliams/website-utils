@@ -10,26 +10,6 @@
     "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_general.png"
   },
   {
-    "name": "Argeon Highmayne",
-    "atk": 2,
-    "hp": 25,
-    "manaCost": 0,
-    "factionName": "Lyonar Kingdoms",
-    "id": 2000001,
-    "baseCardId": 1,
-    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_tier2general.png"
-  },
-  {
-    "name": "Argeon Highmayne",
-    "atk": 2,
-    "hp": 25,
-    "manaCost": 0,
-    "factionName": "Lyonar Kingdoms",
-    "id": 4000001,
-    "baseCardId": 1,
-    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_general_skinroguelegacy.png"
-  },
-  {
     "name": "Cassyva Soulreaper",
     "atk": 2,
     "hp": 25,
@@ -38,16 +18,6 @@
     "id": 323,
     "baseCardId": 323,
     "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_altgeneral.png"
-  },
-  {
-    "name": "Cassyva Soulreaper",
-    "atk": 2,
-    "hp": 25,
-    "manaCost": 0,
-    "factionName": "Abyssian Host",
-    "id": 2000323,
-    "baseCardId": 323,
-    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_altgeneraltier2.png"
   },
   {
     "name": "Faie Bloodwing",
@@ -60,16 +30,6 @@
     "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_general.png"
   },
   {
-    "name": "Faie Bloodwing",
-    "atk": 2,
-    "hp": 25,
-    "manaCost": 0,
-    "factionName": "Vanar Kindred",
-    "id": 2000501,
-    "baseCardId": 501,
-    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_tier2general.png"
-  },
-  {
     "name": "Kaleos Xaan",
     "atk": 2,
     "hp": 25,
@@ -78,26 +38,6 @@
     "id": 101,
     "baseCardId": 101,
     "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_general.png"
-  },
-  {
-    "name": "Kaleos Xaan",
-    "atk": 2,
-    "hp": 25,
-    "manaCost": 0,
-    "factionName": "Songhai Empire",
-    "id": 2000101,
-    "baseCardId": 101,
-    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_tier2general.png"
-  },
-  {
-    "name": "Kaleos Xaan",
-    "atk": 2,
-    "hp": 25,
-    "manaCost": 0,
-    "factionName": "Songhai Empire",
-    "id": 4000101,
-    "baseCardId": 101,
-    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_general_skindogehai.png"
   },
   {
     "name": "Kara Winterblade",
@@ -110,16 +50,6 @@
     "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_altgeneral.png"
   },
   {
-    "name": "Kara Winterblade",
-    "atk": 2,
-    "hp": 25,
-    "manaCost": 0,
-    "factionName": "Vanar Kindred",
-    "id": 2000527,
-    "baseCardId": 527,
-    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_altgeneraltier2.png"
-  },
-  {
     "name": "Lilithe Blightchaser",
     "atk": 2,
     "hp": 25,
@@ -128,16 +58,6 @@
     "id": 301,
     "baseCardId": 301,
     "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_general.png"
-  },
-  {
-    "name": "Lilithe Blightchaser",
-    "atk": 2,
-    "hp": 25,
-    "manaCost": 0,
-    "factionName": "Abyssian Host",
-    "id": 2000301,
-    "baseCardId": 301,
-    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_tier2general.png"
   },
   {
     "name": "Reva Eventide",
@@ -150,16 +70,6 @@
     "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_altgeneral.png"
   },
   {
-    "name": "Reva Eventide",
-    "atk": 2,
-    "hp": 25,
-    "manaCost": 0,
-    "factionName": "Songhai Empire",
-    "id": 2000123,
-    "baseCardId": 123,
-    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_altgeneraltier2.png"
-  },
-  {
     "name": "Scioness Sajj",
     "atk": 2,
     "hp": 25,
@@ -168,16 +78,6 @@
     "id": 223,
     "baseCardId": 223,
     "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_altgeneral.png"
-  },
-  {
-    "name": "Scioness Sajj",
-    "atk": 2,
-    "hp": 25,
-    "manaCost": 0,
-    "factionName": "Vetruvian Imperium",
-    "id": 2000223,
-    "baseCardId": 223,
-    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_altgeneraltier2.png"
   },
   {
     "name": "Starhorn the Seeker",
@@ -190,16 +90,6 @@
     "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_altgeneral.png"
   },
   {
-    "name": "Starhorn the Seeker",
-    "atk": 2,
-    "hp": 25,
-    "manaCost": 0,
-    "factionName": "Magmar Aspects",
-    "id": 2000418,
-    "baseCardId": 418,
-    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_altgeneraltier2.png"
-  },
-  {
     "name": "Vaath the Immortal",
     "atk": 2,
     "hp": 25,
@@ -208,16 +98,6 @@
     "id": 401,
     "baseCardId": 401,
     "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_general.png"
-  },
-  {
-    "name": "Vaath the Immortal",
-    "atk": 2,
-    "hp": 25,
-    "manaCost": 0,
-    "factionName": "Magmar Aspects",
-    "id": 2000401,
-    "baseCardId": 401,
-    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_tier2general.png"
   },
   {
     "name": "Zir'An Sunforge",
@@ -230,16 +110,6 @@
     "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_altgeneral.png"
   },
   {
-    "name": "Zir'An Sunforge",
-    "atk": 2,
-    "hp": 25,
-    "manaCost": 0,
-    "factionName": "Lyonar Kingdoms",
-    "id": 2000023,
-    "baseCardId": 23,
-    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_altgeneraltier2.png"
-  },
-  {
     "name": "Zirix Starstrider",
     "atk": 2,
     "hp": 25,
@@ -248,16 +118,6 @@
     "id": 201,
     "baseCardId": 201,
     "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_general.png"
-  },
-  {
-    "name": "Zirix Starstrider",
-    "atk": 2,
-    "hp": 25,
-    "manaCost": 0,
-    "factionName": "Vetruvian Imperium",
-    "id": 2000201,
-    "baseCardId": 201,
-    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_tier2general.png"
   },
   {
     "name": "Beam Shock",
@@ -2430,16 +2290,6 @@
     "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_sunstonemaiden.png"
   },
   {
-    "name": "Sarlac the Eternal",
-    "atk": 1,
-    "hp": 1,
-    "manaCost": 3,
-    "factionName": "Neutral",
-    "id": 2019045,
-    "baseCardId": 19045,
-    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_sarlacmk2.png"
-  },
-  {
     "name": "Scion's Third Wish",
     "atk": null,
     "hp": null,
@@ -2588,16 +2438,6 @@
     "id": 10975,
     "baseCardId": 10975,
     "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_spelljammer.png"
-  },
-  {
-    "name": "Spelljammer",
-    "atk": 2,
-    "hp": 4,
-    "manaCost": 3,
-    "factionName": "Neutral",
-    "id": 2010975,
-    "baseCardId": 10975,
-    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_spellsammermk2.png"
   },
   {
     "name": "Sun Seer",
@@ -3848,16 +3688,6 @@
     "id": 11018,
     "baseCardId": 11018,
     "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_keeperofthevale.png"
-  },
-  {
-    "name": "Keeper of the Vale",
-    "atk": 3,
-    "hp": 4,
-    "manaCost": 5,
-    "factionName": "Neutral",
-    "id": 2011018,
-    "baseCardId": 11018,
-    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_keeperofthevalue.png"
   },
   {
     "name": "Kolossus",

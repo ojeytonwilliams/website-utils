@@ -10,6 +10,8 @@
   collectionArray = GameDataManager.instance.cardsCollection.models.map(model => model.attributes);
   // Then we trim off unplayable factions and prismatic cards
   collectionArray = collectionArray.filter(card => factions.indexOf(card.factionName) !== -1 && !card.isPrismatic);
+  // Finally we throw away the skins.
+  collectionArray = collectionArray.filter(card => card.baseCardId == card.id);
   collectionArray.forEach((card) => {
     var details, resource;
     details = {
