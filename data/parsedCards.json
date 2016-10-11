@@ -1,0 +1,4772 @@
+[
+  {
+    "name": "Argeon Highmayne",
+    "atk": 2,
+    "hp": 25,
+    "manaCost": 0,
+    "factionName": "Lyonar Kingdoms",
+    "id": 1,
+    "baseCardId": 1,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_general.png"
+  },
+  {
+    "name": "Argeon Highmayne",
+    "atk": 2,
+    "hp": 25,
+    "manaCost": 0,
+    "factionName": "Lyonar Kingdoms",
+    "id": 2000001,
+    "baseCardId": 1,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_tier2general.png"
+  },
+  {
+    "name": "Argeon Highmayne",
+    "atk": 2,
+    "hp": 25,
+    "manaCost": 0,
+    "factionName": "Lyonar Kingdoms",
+    "id": 4000001,
+    "baseCardId": 1,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_general_skinroguelegacy.png"
+  },
+  {
+    "name": "Cassyva Soulreaper",
+    "atk": 2,
+    "hp": 25,
+    "manaCost": 0,
+    "factionName": "Abyssian Host",
+    "id": 323,
+    "baseCardId": 323,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_altgeneral.png"
+  },
+  {
+    "name": "Cassyva Soulreaper",
+    "atk": 2,
+    "hp": 25,
+    "manaCost": 0,
+    "factionName": "Abyssian Host",
+    "id": 2000323,
+    "baseCardId": 323,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_altgeneraltier2.png"
+  },
+  {
+    "name": "Faie Bloodwing",
+    "atk": 2,
+    "hp": 25,
+    "manaCost": 0,
+    "factionName": "Vanar Kindred",
+    "id": 501,
+    "baseCardId": 501,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_general.png"
+  },
+  {
+    "name": "Faie Bloodwing",
+    "atk": 2,
+    "hp": 25,
+    "manaCost": 0,
+    "factionName": "Vanar Kindred",
+    "id": 2000501,
+    "baseCardId": 501,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_tier2general.png"
+  },
+  {
+    "name": "Kaleos Xaan",
+    "atk": 2,
+    "hp": 25,
+    "manaCost": 0,
+    "factionName": "Songhai Empire",
+    "id": 101,
+    "baseCardId": 101,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_general.png"
+  },
+  {
+    "name": "Kaleos Xaan",
+    "atk": 2,
+    "hp": 25,
+    "manaCost": 0,
+    "factionName": "Songhai Empire",
+    "id": 2000101,
+    "baseCardId": 101,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_tier2general.png"
+  },
+  {
+    "name": "Kaleos Xaan",
+    "atk": 2,
+    "hp": 25,
+    "manaCost": 0,
+    "factionName": "Songhai Empire",
+    "id": 4000101,
+    "baseCardId": 101,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_general_skindogehai.png"
+  },
+  {
+    "name": "Kara Winterblade",
+    "atk": 2,
+    "hp": 25,
+    "manaCost": 0,
+    "factionName": "Vanar Kindred",
+    "id": 527,
+    "baseCardId": 527,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_altgeneral.png"
+  },
+  {
+    "name": "Kara Winterblade",
+    "atk": 2,
+    "hp": 25,
+    "manaCost": 0,
+    "factionName": "Vanar Kindred",
+    "id": 2000527,
+    "baseCardId": 527,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_altgeneraltier2.png"
+  },
+  {
+    "name": "Lilithe Blightchaser",
+    "atk": 2,
+    "hp": 25,
+    "manaCost": 0,
+    "factionName": "Abyssian Host",
+    "id": 301,
+    "baseCardId": 301,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_general.png"
+  },
+  {
+    "name": "Lilithe Blightchaser",
+    "atk": 2,
+    "hp": 25,
+    "manaCost": 0,
+    "factionName": "Abyssian Host",
+    "id": 2000301,
+    "baseCardId": 301,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_tier2general.png"
+  },
+  {
+    "name": "Reva Eventide",
+    "atk": 2,
+    "hp": 25,
+    "manaCost": 0,
+    "factionName": "Songhai Empire",
+    "id": 123,
+    "baseCardId": 123,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_altgeneral.png"
+  },
+  {
+    "name": "Reva Eventide",
+    "atk": 2,
+    "hp": 25,
+    "manaCost": 0,
+    "factionName": "Songhai Empire",
+    "id": 2000123,
+    "baseCardId": 123,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_altgeneraltier2.png"
+  },
+  {
+    "name": "Scioness Sajj",
+    "atk": 2,
+    "hp": 25,
+    "manaCost": 0,
+    "factionName": "Vetruvian Imperium",
+    "id": 223,
+    "baseCardId": 223,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_altgeneral.png"
+  },
+  {
+    "name": "Scioness Sajj",
+    "atk": 2,
+    "hp": 25,
+    "manaCost": 0,
+    "factionName": "Vetruvian Imperium",
+    "id": 2000223,
+    "baseCardId": 223,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_altgeneraltier2.png"
+  },
+  {
+    "name": "Starhorn the Seeker",
+    "atk": 2,
+    "hp": 25,
+    "manaCost": 0,
+    "factionName": "Magmar Aspects",
+    "id": 418,
+    "baseCardId": 418,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_altgeneral.png"
+  },
+  {
+    "name": "Starhorn the Seeker",
+    "atk": 2,
+    "hp": 25,
+    "manaCost": 0,
+    "factionName": "Magmar Aspects",
+    "id": 2000418,
+    "baseCardId": 418,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_altgeneraltier2.png"
+  },
+  {
+    "name": "Vaath the Immortal",
+    "atk": 2,
+    "hp": 25,
+    "manaCost": 0,
+    "factionName": "Magmar Aspects",
+    "id": 401,
+    "baseCardId": 401,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_general.png"
+  },
+  {
+    "name": "Vaath the Immortal",
+    "atk": 2,
+    "hp": 25,
+    "manaCost": 0,
+    "factionName": "Magmar Aspects",
+    "id": 2000401,
+    "baseCardId": 401,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_tier2general.png"
+  },
+  {
+    "name": "Zir'An Sunforge",
+    "atk": 2,
+    "hp": 25,
+    "manaCost": 0,
+    "factionName": "Lyonar Kingdoms",
+    "id": 23,
+    "baseCardId": 23,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_altgeneral.png"
+  },
+  {
+    "name": "Zir'An Sunforge",
+    "atk": 2,
+    "hp": 25,
+    "manaCost": 0,
+    "factionName": "Lyonar Kingdoms",
+    "id": 2000023,
+    "baseCardId": 23,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_altgeneraltier2.png"
+  },
+  {
+    "name": "Zirix Starstrider",
+    "atk": 2,
+    "hp": 25,
+    "manaCost": 0,
+    "factionName": "Vetruvian Imperium",
+    "id": 201,
+    "baseCardId": 201,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_general.png"
+  },
+  {
+    "name": "Zirix Starstrider",
+    "atk": 2,
+    "hp": 25,
+    "manaCost": 0,
+    "factionName": "Vetruvian Imperium",
+    "id": 2000201,
+    "baseCardId": 201,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_tier2general.png"
+  },
+  {
+    "name": "Beam Shock",
+    "atk": null,
+    "hp": null,
+    "manaCost": 0,
+    "factionName": "Lyonar Kingdoms",
+    "id": 20109,
+    "baseCardId": 20109,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f1_beamshock.png"
+  },
+  {
+    "name": "Dampening Wave",
+    "atk": null,
+    "hp": null,
+    "manaCost": 0,
+    "factionName": "Magmar Aspects",
+    "id": 20111,
+    "baseCardId": 20111,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f5_dampeningwave.png"
+  },
+  {
+    "name": "Darkfire Sacrifice",
+    "atk": null,
+    "hp": null,
+    "manaCost": 0,
+    "factionName": "Abyssian Host",
+    "id": 20059,
+    "baseCardId": 20059,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f4_darkfiresacrifice.png"
+  },
+  {
+    "name": "Flash Freeze",
+    "atk": null,
+    "hp": null,
+    "manaCost": 0,
+    "factionName": "Vanar Kindred",
+    "id": 20139,
+    "baseCardId": 20139,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f6_flashfreeze.png"
+  },
+  {
+    "name": "Flash Reincarnation",
+    "atk": null,
+    "hp": null,
+    "manaCost": 0,
+    "factionName": "Magmar Aspects",
+    "id": 20112,
+    "baseCardId": 20112,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f5_flashreincarnation.png"
+  },
+  {
+    "name": "Inner Focus",
+    "atk": null,
+    "hp": null,
+    "manaCost": 0,
+    "factionName": "Songhai Empire",
+    "id": 20086,
+    "baseCardId": 20086,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f2_inner_focus.png"
+  },
+  {
+    "name": "Juxtaposition",
+    "atk": null,
+    "hp": null,
+    "manaCost": 0,
+    "factionName": "Songhai Empire",
+    "id": 20129,
+    "baseCardId": 20129,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f2_juxtaposition.png"
+  },
+  {
+    "name": "Mana Vortex",
+    "atk": null,
+    "hp": null,
+    "manaCost": 0,
+    "factionName": "Songhai Empire",
+    "id": 20085,
+    "baseCardId": 20085,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f2_mana_vortex.png"
+  },
+  {
+    "name": "Polarity",
+    "atk": null,
+    "hp": null,
+    "manaCost": 0,
+    "factionName": "Vanar Kindred",
+    "id": 20150,
+    "baseCardId": 20150,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f6_polarity.png"
+  },
+  {
+    "name": "Rae",
+    "atk": 1,
+    "hp": 1,
+    "manaCost": 0,
+    "factionName": "Vetruvian Imperium",
+    "id": 227,
+    "baseCardId": 227,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_rae.png"
+  },
+  {
+    "name": "Siphon Energy",
+    "atk": null,
+    "hp": null,
+    "manaCost": 0,
+    "factionName": "Vetruvian Imperium",
+    "id": 20073,
+    "baseCardId": 20073,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f3_syphonenergy.png"
+  },
+  {
+    "name": "Slo",
+    "atk": 1,
+    "hp": 4,
+    "manaCost": 0,
+    "factionName": "Lyonar Kingdoms",
+    "id": 26,
+    "baseCardId": 26,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_slo.png"
+  },
+  {
+    "name": "Sunstone Bracers",
+    "atk": null,
+    "hp": null,
+    "manaCost": 0,
+    "factionName": "Lyonar Kingdoms",
+    "id": 30004,
+    "baseCardId": 30004,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/artifact_f1_sunstonebracers.png"
+  },
+  {
+    "name": "Abyssal Crawler",
+    "atk": 2,
+    "hp": 1,
+    "manaCost": 1,
+    "factionName": "Abyssian Host",
+    "id": 308,
+    "baseCardId": 308,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_crawler.png"
+  },
+  {
+    "name": "Ace",
+    "atk": 1,
+    "hp": 2,
+    "manaCost": 1,
+    "factionName": "Songhai Empire",
+    "id": 126,
+    "baseCardId": 126,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_ace.png"
+  },
+  {
+    "name": "Aegis Barrier",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Lyonar Kingdoms",
+    "id": 20120,
+    "baseCardId": 20120,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f1_aegisbarrier.png"
+  },
+  {
+    "name": "Aerial Rift",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Lyonar Kingdoms",
+    "id": 20158,
+    "baseCardId": 20158,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f1_aerial_rift.png"
+  },
+  {
+    "name": "Amplification",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Magmar Aspects",
+    "id": 20119,
+    "baseCardId": 20119,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f5_amplification.png"
+  },
+  {
+    "name": "Aspect of the Fox",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Vanar Kindred",
+    "id": 20144,
+    "baseCardId": 20144,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f6_aspectofthefox.png"
+  },
+  {
+    "name": "Auroras Tears",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Vetruvian Imperium",
+    "id": 20132,
+    "baseCardId": 20132,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f3_aurorastear.png"
+  },
+  {
+    "name": "Auryn Nexus",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Lyonar Kingdoms",
+    "id": 20045,
+    "baseCardId": 20045,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f1_aurynnexus.png"
+  },
+  {
+    "name": "Blindscorch",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Vetruvian Imperium",
+    "id": 20075,
+    "baseCardId": 20075,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f3_blindscorch.png"
+  },
+  {
+    "name": "Bloodrage Mask",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Songhai Empire",
+    "id": 30010,
+    "baseCardId": 30010,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/artifact_f2_bloodleechmask.png"
+  },
+  {
+    "name": "Bloodtear Alchemist",
+    "atk": 2,
+    "hp": 1,
+    "manaCost": 1,
+    "factionName": "Neutral",
+    "id": 19052,
+    "baseCardId": 19052,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_bloodstonealchemist.png"
+  },
+  {
+    "name": "Crescent Spear",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Songhai Empire",
+    "id": 30023,
+    "baseCardId": 30023,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/artifact_f2_crescentspear.png"
+  },
+  {
+    "name": "Dance of Dreams",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Magmar Aspects",
+    "id": 20115,
+    "baseCardId": 20115,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f5_manaburn.png"
+  },
+  {
+    "name": "Dragonlark",
+    "atk": 2,
+    "hp": 1,
+    "manaCost": 1,
+    "factionName": "Neutral",
+    "id": 10001,
+    "baseCardId": 10001,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_monsterdragonhawk.png"
+  },
+  {
+    "name": "Dreamgazer",
+    "atk": 1,
+    "hp": 1,
+    "manaCost": 1,
+    "factionName": "Neutral",
+    "id": 11022,
+    "baseCardId": 11022,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_dreamgazer.png"
+  },
+  {
+    "name": "Fighting Spirit",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Lyonar Kingdoms",
+    "id": 20189,
+    "baseCardId": 20189,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f1_enthrall.png"
+  },
+  {
+    "name": "Ghost Lightning",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Songhai Empire",
+    "id": 20088,
+    "baseCardId": 20088,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f2_ghost_lightning.png"
+  },
+  {
+    "name": "Grasp of Agony",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Abyssian Host",
+    "id": 20070,
+    "baseCardId": 20070,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f4_curseofagony.png"
+  },
+  {
+    "name": "Greater Fortitude",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Magmar Aspects",
+    "id": 20116,
+    "baseCardId": 20116,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f5_greaterfortitude.png"
+  },
+  {
+    "name": "Heartseeker",
+    "atk": 1,
+    "hp": 1,
+    "manaCost": 1,
+    "factionName": "Songhai Empire",
+    "id": 108,
+    "baseCardId": 108,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_caster.png"
+  },
+  {
+    "name": "Helm of MECHAZ0R",
+    "atk": 2,
+    "hp": 2,
+    "manaCost": 1,
+    "factionName": "Neutral",
+    "id": 19002,
+    "baseCardId": 19002,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_mechaz0rhelm.png"
+  },
+  {
+    "name": "Horn of the Forsaken",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Abyssian Host",
+    "id": 30005,
+    "baseCardId": 30005,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/artifact_f4_hornofforsaken.png"
+  },
+  {
+    "name": "Katara",
+    "atk": 1,
+    "hp": 3,
+    "manaCost": 1,
+    "factionName": "Songhai Empire",
+    "id": 129,
+    "baseCardId": 129,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_katara.png"
+  },
+  {
+    "name": "Koi",
+    "atk": 3,
+    "hp": 1,
+    "manaCost": 1,
+    "factionName": "Neutral",
+    "id": 11053,
+    "baseCardId": 11053,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_koi.png"
+  },
+  {
+    "name": "Komodo Charger",
+    "atk": 1,
+    "hp": 3,
+    "manaCost": 1,
+    "factionName": "Neutral",
+    "id": 10018,
+    "baseCardId": 10018,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_beastcavern.png"
+  },
+  {
+    "name": "Lava Lance",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Magmar Aspects",
+    "id": 20203,
+    "baseCardId": 20203,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f5_lavalance.png"
+  },
+  {
+    "name": "Lionheart Blessing",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Lyonar Kingdoms",
+    "id": 20062,
+    "baseCardId": 20062,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f1_lionheartblessing.png"
+  },
+  {
+    "name": "Magnetize",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Lyonar Kingdoms",
+    "id": 20161,
+    "baseCardId": 20161,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f1_magnetize.png"
+  },
+  {
+    "name": "Mesmerize",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Vanar Kindred",
+    "id": 20138,
+    "baseCardId": 20138,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f6_mesmerize.png"
+  },
+  {
+    "name": "Mist Dragon Seal",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Songhai Empire",
+    "id": 20168,
+    "baseCardId": 20168,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f2_mistdragonseal.png"
+  },
+  {
+    "name": "Mist Walking",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Songhai Empire",
+    "id": 20167,
+    "baseCardId": 20167,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f2_mistwalking.png"
+  },
+  {
+    "name": "Planar Scout",
+    "atk": 2,
+    "hp": 1,
+    "manaCost": 1,
+    "factionName": "Neutral",
+    "id": 10019,
+    "baseCardId": 10019,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_beastphasehound.png"
+  },
+  {
+    "name": "Prophet of the White Palm",
+    "atk": 1,
+    "hp": 1,
+    "manaCost": 1,
+    "factionName": "Neutral",
+    "id": 11016,
+    "baseCardId": 11016,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_prophetwhitepalm.png"
+  },
+  {
+    "name": "Razor Skin",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Magmar Aspects",
+    "id": 20202,
+    "baseCardId": 20202,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f5_razorskin.png"
+  },
+  {
+    "name": "Rex",
+    "atk": 3,
+    "hp": 1,
+    "manaCost": 1,
+    "factionName": "Magmar Aspects",
+    "id": 421,
+    "baseCardId": 421,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_rex.png"
+  },
+  {
+    "name": "Saberspine Seal",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Songhai Empire",
+    "id": 20080,
+    "baseCardId": 20080,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f2_saberspineseal.png"
+  },
+  {
+    "name": "Scion's First Wish",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Vetruvian Imperium",
+    "id": 20095,
+    "baseCardId": 20095,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f3_scionsfirstwish.png"
+  },
+  {
+    "name": "Shadow Waltz",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Songhai Empire",
+    "id": 20192,
+    "baseCardId": 20192,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f2_shadowwaltz.png"
+  },
+  {
+    "name": "Silverguard Squire",
+    "atk": 1,
+    "hp": 4,
+    "manaCost": 1,
+    "factionName": "Lyonar Kingdoms",
+    "id": 14,
+    "baseCardId": 14,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_silverguardsquire.png"
+  },
+  {
+    "name": "Snow Chaser",
+    "atk": 2,
+    "hp": 1,
+    "manaCost": 1,
+    "factionName": "Vanar Kindred",
+    "id": 510,
+    "baseCardId": 510,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_snowchaser.png"
+  },
+  {
+    "name": "Sphere of Darkness",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Abyssian Host",
+    "id": 20201,
+    "baseCardId": 20201,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f4_sphereofdarkness.png"
+  },
+  {
+    "name": "Sundrop Elixir",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Lyonar Kingdoms",
+    "id": 20043,
+    "baseCardId": 20043,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f1_sundropelixir.png"
+  },
+  {
+    "name": "Swamp Entangler",
+    "atk": 0,
+    "hp": 3,
+    "manaCost": 1,
+    "factionName": "Neutral",
+    "id": 19025,
+    "baseCardId": 19025,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_beastswamp.png"
+  },
+  {
+    "name": "True Strike",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Lyonar Kingdoms",
+    "id": 20066,
+    "baseCardId": 20066,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f1_truestrike.png"
+  },
+  {
+    "name": "Vespyric Call",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Vanar Kindred",
+    "id": 20209,
+    "baseCardId": 20209,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f6_vespyrsurge.png"
+  },
+  {
+    "name": "Void Pulse",
+    "atk": null,
+    "hp": null,
+    "manaCost": 1,
+    "factionName": "Abyssian Host",
+    "id": 20052,
+    "baseCardId": 20052,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f4_voidpulse.png"
+  },
+  {
+    "name": "Aethermaster",
+    "atk": 1,
+    "hp": 3,
+    "manaCost": 2,
+    "factionName": "Neutral",
+    "id": 10993,
+    "baseCardId": 10993,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_aethermaster.png"
+  },
+  {
+    "name": "Altered Beast",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Vanar Kindred",
+    "id": 20214,
+    "baseCardId": 20214,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f6_alteredbeast.png"
+  },
+  {
+    "name": "Amu",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 2,
+    "factionName": "Neutral",
+    "id": 11001,
+    "baseCardId": 11001,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_amu.png"
+  },
+  {
+    "name": "Araki Headhunter",
+    "atk": 1,
+    "hp": 3,
+    "manaCost": 2,
+    "factionName": "Neutral",
+    "id": 11017,
+    "baseCardId": 11017,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_arakiheadhunter.png"
+  },
+  {
+    "name": "Artifact Defiler",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Songhai Empire",
+    "id": 20106,
+    "baseCardId": 20106,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f2_artifact_defiler.png"
+  },
+  {
+    "name": "Azure Horn Shaman",
+    "atk": 1,
+    "hp": 4,
+    "manaCost": 2,
+    "factionName": "Neutral",
+    "id": 19050,
+    "baseCardId": 19050,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_mercazurehorn.png"
+  },
+  {
+    "name": "Azurite Lion",
+    "atk": 2,
+    "hp": 3,
+    "manaCost": 2,
+    "factionName": "Lyonar Kingdoms",
+    "id": 21,
+    "baseCardId": 21,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_azuritelion.png"
+  },
+  {
+    "name": "Blood Siren",
+    "atk": 3,
+    "hp": 2,
+    "manaCost": 2,
+    "factionName": "Abyssian Host",
+    "id": 313,
+    "baseCardId": 313,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_siren.png"
+  },
+  {
+    "name": "Bluetip Scorpion",
+    "atk": 3,
+    "hp": 1,
+    "manaCost": 2,
+    "factionName": "Neutral",
+    "id": 19029,
+    "baseCardId": 19029,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_monsteronyxscorpion.png"
+  },
+  {
+    "name": "Bone Swarm",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Vetruvian Imperium",
+    "id": 20151,
+    "baseCardId": 20151,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f3_boneswarm.png"
+  },
+  {
+    "name": "Bonechill Barrier",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Vanar Kindred",
+    "id": 20149,
+    "baseCardId": 20149,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f6_bonechillbarrier.png"
+  },
+  {
+    "name": "Borean Bear",
+    "atk": 1,
+    "hp": 3,
+    "manaCost": 2,
+    "factionName": "Vanar Kindred",
+    "id": 512,
+    "baseCardId": 512,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_waterbear.png"
+  },
+  {
+    "name": "Boundless Courage",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Vanar Kindred",
+    "id": 20137,
+    "baseCardId": 20137,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f6_unstoppableforce.png"
+  },
+  {
+    "name": "Bur",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 2,
+    "factionName": "Vanar Kindred",
+    "id": 531,
+    "baseCardId": 531,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_bur.png"
+  },
+  {
+    "name": "Chakri Avatar",
+    "atk": 1,
+    "hp": 2,
+    "manaCost": 2,
+    "factionName": "Songhai Empire",
+    "id": 115,
+    "baseCardId": 115,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_chakriavatar.png"
+  },
+  {
+    "name": "Chromatic Cold",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Vanar Kindred",
+    "id": 20134,
+    "baseCardId": 20134,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f6_chromaticcold.png"
+  },
+  {
+    "name": "Coldbiter",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Vanar Kindred",
+    "id": 30016,
+    "baseCardId": 30016,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/artifact_f6_frostbiter.png"
+  },
+  {
+    "name": "Consuming Rebirth",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Abyssian Host",
+    "id": 20166,
+    "baseCardId": 20166,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f4_consumingrebirth.png"
+  },
+  {
+    "name": "Cosmic Flesh",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Vetruvian Imperium",
+    "id": 20074,
+    "baseCardId": 20074,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f3_cosmicflesh.png"
+  },
+  {
+    "name": "Crimson Coil",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Songhai Empire",
+    "id": 20191,
+    "baseCardId": 20191,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f2_crimsoncoil.png"
+  },
+  {
+    "name": "Crystal Cloaker",
+    "atk": 2,
+    "hp": 3,
+    "manaCost": 2,
+    "factionName": "Vanar Kindred",
+    "id": 505,
+    "baseCardId": 505,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_crystalbeetle.png"
+  },
+  {
+    "name": "Crystal Wisp",
+    "atk": 1,
+    "hp": 1,
+    "manaCost": 2,
+    "factionName": "Vanar Kindred",
+    "id": 506,
+    "baseCardId": 506,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_monstercrystalwisp.png"
+  },
+  {
+    "name": "Daemonic Lure",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Abyssian Host",
+    "id": 20049,
+    "baseCardId": 20049,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f4_daemoniclure.png"
+  },
+  {
+    "name": "Darkspine Elemental",
+    "atk": 1,
+    "hp": 4,
+    "manaCost": 2,
+    "factionName": "Abyssian Host",
+    "id": 316,
+    "baseCardId": 316,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_darkspine.png"
+  },
+  {
+    "name": "Deathstrike Seal",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Songhai Empire",
+    "id": 20094,
+    "baseCardId": 20094,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f2_deathstrikeseal.png"
+  },
+  {
+    "name": "Diretide Frenzy",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Magmar Aspects",
+    "id": 20113,
+    "baseCardId": 20113,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f5_diretidefrenzy.png"
+  },
+  {
+    "name": "Dunecaster",
+    "atk": 2,
+    "hp": 1,
+    "manaCost": 2,
+    "factionName": "Vetruvian Imperium",
+    "id": 211,
+    "baseCardId": 211,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_orbweaver.png"
+  },
+  {
+    "name": "Echoing Shriek",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Abyssian Host",
+    "id": 20204,
+    "baseCardId": 20204,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f4_echoingshriek.png"
+  },
+  {
+    "name": "Eight Gates",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Songhai Empire",
+    "id": 20143,
+    "baseCardId": 20143,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f2_eightgates.png"
+  },
+  {
+    "name": "Ephemeral Shroud",
+    "atk": 2,
+    "hp": 2,
+    "manaCost": 2,
+    "factionName": "Neutral",
+    "id": 10020,
+    "baseCardId": 10020,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_monsterdreamoracle.png"
+  },
+  {
+    "name": "Ethereal Obelysk",
+    "atk": 0,
+    "hp": 6,
+    "manaCost": 2,
+    "factionName": "Vetruvian Imperium",
+    "id": 214,
+    "baseCardId": 214,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_obelyskredsand.png"
+  },
+  {
+    "name": "Fiz",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 2,
+    "factionName": "Lyonar Kingdoms",
+    "id": 25,
+    "baseCardId": 25,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_fiz.png"
+  },
+  {
+    "name": "Flameblood Warlock",
+    "atk": 3,
+    "hp": 1,
+    "manaCost": 2,
+    "factionName": "Neutral",
+    "id": 19051,
+    "baseCardId": 19051,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_mercflamebloodwarlock.png"
+  },
+  {
+    "name": "Fountain of Youth",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Vetruvian Imperium",
+    "id": 20152,
+    "baseCardId": 20152,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f3_fountainofyouth.png"
+  },
+  {
+    "name": "Frostfire",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Vanar Kindred",
+    "id": 20135,
+    "baseCardId": 20135,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f6_frostfire.png"
+  },
+  {
+    "name": "Ghost Lynx",
+    "atk": 2,
+    "hp": 1,
+    "manaCost": 2,
+    "factionName": "Neutral",
+    "id": 11009,
+    "baseCardId": 11009,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_ghostlynx.png"
+  },
+  {
+    "name": "Gloomchaser",
+    "atk": 2,
+    "hp": 2,
+    "manaCost": 2,
+    "factionName": "Abyssian Host",
+    "id": 317,
+    "baseCardId": 317,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_gloomchaser.png"
+  },
+  {
+    "name": "Golem Metallurgist",
+    "atk": 2,
+    "hp": 3,
+    "manaCost": 2,
+    "factionName": "Neutral",
+    "id": 19038,
+    "baseCardId": 19038,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_golemsteel.png"
+  },
+  {
+    "name": "Gor",
+    "atk": 1,
+    "hp": 1,
+    "manaCost": 2,
+    "factionName": "Abyssian Host",
+    "id": 326,
+    "baseCardId": 326,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_gor.png"
+  },
+  {
+    "name": "Gravity Well",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Vanar Kindred",
+    "id": 20147,
+    "baseCardId": 20147,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f6_gravitywell.png"
+  },
+  {
+    "name": "Gro",
+    "atk": 2,
+    "hp": 4,
+    "manaCost": 2,
+    "factionName": "Magmar Aspects",
+    "id": 420,
+    "baseCardId": 420,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_gro.png"
+  },
+  {
+    "name": "Hailstone Prison",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Vanar Kindred",
+    "id": 20160,
+    "baseCardId": 20160,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f6_hailstoneprison.png"
+  },
+  {
+    "name": "Healing Mystic",
+    "atk": 2,
+    "hp": 3,
+    "manaCost": 2,
+    "factionName": "Neutral",
+    "id": 10981,
+    "baseCardId": 10981,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_healingmystic.png"
+  },
+  {
+    "name": "Hearth-Sister",
+    "atk": 3,
+    "hp": 2,
+    "manaCost": 2,
+    "factionName": "Vanar Kindred",
+    "id": 517,
+    "baseCardId": 517,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_justice.png"
+  },
+  {
+    "name": "Icy",
+    "atk": 2,
+    "hp": 3,
+    "manaCost": 2,
+    "factionName": "Vanar Kindred",
+    "id": 530,
+    "baseCardId": 530,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_icy.png"
+  },
+  {
+    "name": "Inkhorn Gaze",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Abyssian Host",
+    "id": 20200,
+    "baseCardId": 20200,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f4_inkhorngaze.png"
+  },
+  {
+    "name": "Iridium Scale",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Magmar Aspects",
+    "id": 30013,
+    "baseCardId": 30013,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/artifact_f5_irridiumscale.png"
+  },
+  {
+    "name": "Jaxi",
+    "atk": 1,
+    "hp": 1,
+    "manaCost": 2,
+    "factionName": "Neutral",
+    "id": 11014,
+    "baseCardId": 11014,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_jaxi.png"
+  },
+  {
+    "name": "Kaido Assassin",
+    "atk": 2,
+    "hp": 3,
+    "manaCost": 2,
+    "factionName": "Songhai Empire",
+    "id": 110,
+    "baseCardId": 110,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_melee.png"
+  },
+  {
+    "name": "Kujata",
+    "atk": 2,
+    "hp": 2,
+    "manaCost": 2,
+    "factionName": "Magmar Aspects",
+    "id": 409,
+    "baseCardId": 409,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_kujata.png"
+  },
+  {
+    "name": "Lasting Judgement",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Lyonar Kingdoms",
+    "id": 20046,
+    "baseCardId": 20046,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f1_lastingjudgement.png"
+  },
+  {
+    "name": "Lightchaser",
+    "atk": 3,
+    "hp": 2,
+    "manaCost": 2,
+    "factionName": "Lyonar Kingdoms",
+    "id": 15,
+    "baseCardId": 15,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_caster.png"
+  },
+  {
+    "name": "Lightning Blitz",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Vanar Kindred",
+    "id": 20211,
+    "baseCardId": 20211,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f6_lightningblitz.png"
+  },
+  {
+    "name": "Lucent Beam",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Lyonar Kingdoms",
+    "id": 20190,
+    "baseCardId": 20190,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f1_lucentbeam.png"
+  },
+  {
+    "name": "Lurking Fear",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Abyssian Host",
+    "id": 20199,
+    "baseCardId": 20199,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f4_lurkingfear.png"
+  },
+  {
+    "name": "Manaforger",
+    "atk": 1,
+    "hp": 3,
+    "manaCost": 2,
+    "factionName": "Neutral",
+    "id": 10302,
+    "baseCardId": 10302,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_monsterartifacthunter.png"
+  },
+  {
+    "name": "Mark of Solitude",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Vanar Kindred",
+    "id": 20140,
+    "baseCardId": 20140,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f6_markofsolitude.png"
+  },
+  {
+    "name": "Mask of Shadows",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Songhai Empire",
+    "id": 30007,
+    "baseCardId": 30007,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/artifact_f2_maskofshadows.png"
+  },
+  {
+    "name": "Maw",
+    "atk": 2,
+    "hp": 2,
+    "manaCost": 2,
+    "factionName": "Neutral",
+    "id": 10979,
+    "baseCardId": 10979,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_maw.png"
+  },
+  {
+    "name": "Mirror Meld",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Songhai Empire",
+    "id": 20194,
+    "baseCardId": 20194,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f2_mirrormeld.png"
+  },
+  {
+    "name": "Natural Selection",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Magmar Aspects",
+    "id": 20125,
+    "baseCardId": 20125,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f5_naturalselection.png"
+  },
+  {
+    "name": "Ooz",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 2,
+    "factionName": "Abyssian Host",
+    "id": 327,
+    "baseCardId": 327,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_ooz.png"
+  },
+  {
+    "name": "Pax",
+    "atk": 2,
+    "hp": 1,
+    "manaCost": 2,
+    "factionName": "Vetruvian Imperium",
+    "id": 228,
+    "baseCardId": 228,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_pax.png"
+  },
+  {
+    "name": "Phalanxar",
+    "atk": 6,
+    "hp": 1,
+    "manaCost": 2,
+    "factionName": "Magmar Aspects",
+    "id": 406,
+    "baseCardId": 406,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_tank.png"
+  },
+  {
+    "name": "Phoenix Fire",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Songhai Empire",
+    "id": 20081,
+    "baseCardId": 20081,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f2_phoenixfire02.png"
+  },
+  {
+    "name": "Piercing Mantis",
+    "atk": 2,
+    "hp": 2,
+    "manaCost": 2,
+    "factionName": "Neutral",
+    "id": 19040,
+    "baseCardId": 19040,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_monstershreddingmantis.png"
+  },
+  {
+    "name": "Primus Fist",
+    "atk": 2,
+    "hp": 3,
+    "manaCost": 2,
+    "factionName": "Neutral",
+    "id": 19037,
+    "baseCardId": 19037,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_gauntletmaster.png"
+  },
+  {
+    "name": "Pyromancer",
+    "atk": 2,
+    "hp": 1,
+    "manaCost": 2,
+    "factionName": "Vetruvian Imperium",
+    "id": 213,
+    "baseCardId": 213,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_pyromancer.png"
+  },
+  {
+    "name": "Rasha's Curse",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Vetruvian Imperium",
+    "id": 20099,
+    "baseCardId": 20099,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f3_rashascurse.png"
+  },
+  {
+    "name": "Rock Pulverizer",
+    "atk": 1,
+    "hp": 4,
+    "manaCost": 2,
+    "factionName": "Neutral",
+    "id": 19026,
+    "baseCardId": 19026,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_monsterexplodingdemon.png"
+  },
+  {
+    "name": "Rust Crawler",
+    "atk": 2,
+    "hp": 3,
+    "manaCost": 2,
+    "factionName": "Neutral",
+    "id": 10957,
+    "baseCardId": 10957,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_monstercoiledcrawler.png"
+  },
+  {
+    "name": "Sand Trap",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Vetruvian Imperium",
+    "id": 20093,
+    "baseCardId": 20093,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f3_sandtrap.png"
+  },
+  {
+    "name": "Scion's Second Wish",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Vetruvian Imperium",
+    "id": 20096,
+    "baseCardId": 20096,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f3_scionssecondwish.png"
+  },
+  {
+    "name": "Shiro Puppydragon",
+    "atk": 1,
+    "hp": 4,
+    "manaCost": 2,
+    "factionName": "Neutral",
+    "id": 11046,
+    "baseCardId": 11046,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_shirodogdragon.png"
+  },
+  {
+    "name": "Skyrock Golem",
+    "atk": 3,
+    "hp": 2,
+    "manaCost": 2,
+    "factionName": "Neutral",
+    "id": 19048,
+    "baseCardId": 19048,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_golemrunesand.png"
+  },
+  {
+    "name": "Sol",
+    "atk": 1,
+    "hp": 1,
+    "manaCost": 2,
+    "factionName": "Neutral",
+    "id": 11066,
+    "baseCardId": 11066,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_sol.png"
+  },
+  {
+    "name": "Soulshatter Pact",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Abyssian Host",
+    "id": 20071,
+    "baseCardId": 20071,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f4_soulshatterpact.png"
+  },
+  {
+    "name": "Spectral Blade",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Abyssian Host",
+    "id": 30014,
+    "baseCardId": 30014,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/artifact_f4_spectralblade.png"
+  },
+  {
+    "name": "Staff Of Y'Kir",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Vetruvian Imperium",
+    "id": 30006,
+    "baseCardId": 30006,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/artifact_f3_staffofykir.png"
+  },
+  {
+    "name": "Sun Bloom",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Lyonar Kingdoms",
+    "id": 20064,
+    "baseCardId": 20064,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f1_sunbloom.png"
+  },
+  {
+    "name": "Sun Wisp",
+    "atk": 2,
+    "hp": 1,
+    "manaCost": 2,
+    "factionName": "Lyonar Kingdoms",
+    "id": 27,
+    "baseCardId": 27,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_sunwisp.png"
+  },
+  {
+    "name": "Sunstone Templar",
+    "atk": 1,
+    "hp": 4,
+    "manaCost": 2,
+    "factionName": "Lyonar Kingdoms",
+    "id": 10,
+    "baseCardId": 10,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_sunstonetemplar.png"
+  },
+  {
+    "name": "Tempest",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Lyonar Kingdoms",
+    "id": 20044,
+    "baseCardId": 20044,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f1_tempest.png"
+  },
+  {
+    "name": "Tremor",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Magmar Aspects",
+    "id": 20114,
+    "baseCardId": 20114,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f5_tremor.png"
+  },
+  {
+    "name": "Tusk Boar",
+    "atk": 2,
+    "hp": 3,
+    "manaCost": 2,
+    "factionName": "Songhai Empire",
+    "id": 121,
+    "baseCardId": 121,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_special.png"
+  },
+  {
+    "name": "Vale Hunter",
+    "atk": 1,
+    "hp": 2,
+    "manaCost": 2,
+    "factionName": "Neutral",
+    "id": 10021,
+    "baseCardId": 10021,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_tribalranged1.png"
+  },
+  {
+    "name": "War Surge",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Lyonar Kingdoms",
+    "id": 20047,
+    "baseCardId": 20047,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f1_warsurge.png"
+  },
+  {
+    "name": "Whisper of the Sands",
+    "atk": null,
+    "hp": null,
+    "manaCost": 2,
+    "factionName": "Vetruvian Imperium",
+    "id": 20196,
+    "baseCardId": 20196,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f3_songofsands.png"
+  },
+  {
+    "name": "Wind Slicer",
+    "atk": 2,
+    "hp": 3,
+    "manaCost": 2,
+    "factionName": "Vetruvian Imperium",
+    "id": 229,
+    "baseCardId": 229,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_windslicer.png"
+  },
+  {
+    "name": "Windblade Adept",
+    "atk": 2,
+    "hp": 3,
+    "manaCost": 2,
+    "factionName": "Lyonar Kingdoms",
+    "id": 9,
+    "baseCardId": 9,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_melee.png"
+  },
+  {
+    "name": "Wings of MECHAZ0R",
+    "atk": 1,
+    "hp": 4,
+    "manaCost": 2,
+    "factionName": "Neutral",
+    "id": 19003,
+    "baseCardId": 19003,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_mechaz0rwing.png"
+  },
+  {
+    "name": "Wood-Wen",
+    "atk": 2,
+    "hp": 2,
+    "manaCost": 2,
+    "factionName": "Neutral",
+    "id": 11075,
+    "baseCardId": 11075,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_pennyarcade01.png"
+  },
+  {
+    "name": "Xho",
+    "atk": 2,
+    "hp": 3,
+    "manaCost": 2,
+    "factionName": "Songhai Empire",
+    "id": 125,
+    "baseCardId": 125,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_xho.png"
+  },
+  {
+    "name": "Young Silithar",
+    "atk": 2,
+    "hp": 3,
+    "manaCost": 2,
+    "factionName": "Magmar Aspects",
+    "id": 412,
+    "baseCardId": 412,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_silitharyoung.png"
+  },
+  {
+    "name": "Z0r",
+    "atk": 2,
+    "hp": 1,
+    "manaCost": 2,
+    "factionName": "Neutral",
+    "id": 11061,
+    "baseCardId": 11061,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_z0r.png"
+  },
+  {
+    "name": "Abjudicator",
+    "atk": 3,
+    "hp": 1,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 11039,
+    "baseCardId": 11039,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_abjudicator.png"
+  },
+  {
+    "name": "Afterblaze",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Lyonar Kingdoms",
+    "id": 20188,
+    "baseCardId": 20188,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f1_afterglow.png"
+  },
+  {
+    "name": "Alcuin Loremaster",
+    "atk": 3,
+    "hp": 1,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 10304,
+    "baseCardId": 10304,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_mercsightlessfarseer.png"
+  },
+  {
+    "name": "Arclyte Sentinel",
+    "atk": 2,
+    "hp": 4,
+    "manaCost": 3,
+    "factionName": "Lyonar Kingdoms",
+    "id": 12,
+    "baseCardId": 12,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_special.png"
+  },
+  {
+    "name": "Astral Flood",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Vetruvian Imperium",
+    "id": 20195,
+    "baseCardId": 20195,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f3_astraflood.png"
+  },
+  {
+    "name": "Astral Phasing",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Vetruvian Imperium",
+    "id": 20076,
+    "baseCardId": 20076,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f3_astralphasing.png"
+  },
+  {
+    "name": "Bastion",
+    "atk": 0,
+    "hp": 5,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 11038,
+    "baseCardId": 11038,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_bastion.png"
+  },
+  {
+    "name": "Battle Panddo",
+    "atk": 2,
+    "hp": 4,
+    "manaCost": 3,
+    "factionName": "Songhai Empire",
+    "id": 130,
+    "baseCardId": 130,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_pandabear02.png"
+  },
+  {
+    "name": "Blaze Hound",
+    "atk": 4,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 10013,
+    "baseCardId": 10013,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_beastdarkharbinger.png"
+  },
+  {
+    "name": "Blazing Spines",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Vanar Kindred",
+    "id": 20148,
+    "baseCardId": 20148,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f6_blazingspines.png"
+  },
+  {
+    "name": "Blistering Skorn",
+    "atk": 3,
+    "hp": 4,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 11043,
+    "baseCardId": 11043,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_blisteringscorn.png"
+  },
+  {
+    "name": "Blood Baronette",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Abyssian Host",
+    "id": 328,
+    "baseCardId": 328,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_bloodbaronette.png"
+  },
+  {
+    "name": "Bloodshard Golem",
+    "atk": 4,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 10205,
+    "baseCardId": 10205,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_golembloodshard.png"
+  },
+  {
+    "name": "Cannon of MECHAZ0R",
+    "atk": 2,
+    "hp": 2,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 19004,
+    "baseCardId": 19004,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_mechaz0rcannon.png"
+  },
+  {
+    "name": "Celestial Phantom",
+    "atk": 1,
+    "hp": 5,
+    "manaCost": 3,
+    "factionName": "Songhai Empire",
+    "id": 117,
+    "baseCardId": 117,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_deathphantom.png"
+  },
+  {
+    "name": "Chaos Elemental",
+    "atk": 4,
+    "hp": 4,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 10962,
+    "baseCardId": 10962,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_chaoselemental.png"
+  },
+  {
+    "name": "Crimson Oculus",
+    "atk": 2,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 19030,
+    "baseCardId": 19030,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_monsteroculus.png"
+  },
+  {
+    "name": "Crossbones",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 10953,
+    "baseCardId": 10953,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_golem_crossbones.png"
+  },
+  {
+    "name": "Cryogenesis",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Vanar Kindred",
+    "id": 20165,
+    "baseCardId": 20165,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f6_cryogenesis.png"
+  },
+  {
+    "name": "Cyclone Mask",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Songhai Empire",
+    "id": 30009,
+    "baseCardId": 30009,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/artifact_f2_cyclonemask.png"
+  },
+  {
+    "name": "Day Watcher",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 11079,
+    "baseCardId": 11079,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_daywatcher.png"
+  },
+  {
+    "name": "Deathfire Crescendo",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Abyssian Host",
+    "id": 20133,
+    "baseCardId": 20133,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f4_deathfirecrescendo.png"
+  },
+  {
+    "name": "Divine Bond",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Lyonar Kingdoms",
+    "id": 20068,
+    "baseCardId": 20068,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f1_divinebond.png"
+  },
+  {
+    "name": "Earth Walker",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Magmar Aspects",
+    "id": 402,
+    "baseCardId": 402,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_earthwalker.png"
+  },
+  {
+    "name": "Elkowl",
+    "atk": 2,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 11076,
+    "baseCardId": 11076,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_pennyarcade02.png"
+  },
+  {
+    "name": "Falcius",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Vetruvian Imperium",
+    "id": 226,
+    "baseCardId": 226,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_falcius.png"
+  },
+  {
+    "name": "Fenrir Warmaster",
+    "atk": 3,
+    "hp": 2,
+    "manaCost": 3,
+    "factionName": "Vanar Kindred",
+    "id": 503,
+    "baseCardId": 503,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_fenrirwarmaster.png"
+  },
+  {
+    "name": "Fireblaze Obelysk",
+    "atk": 0,
+    "hp": 6,
+    "manaCost": 3,
+    "factionName": "Vetruvian Imperium",
+    "id": 215,
+    "baseCardId": 215,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_obelyskgoldenflame.png"
+  },
+  {
+    "name": "Glacial Elemental",
+    "atk": 2,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Vanar Kindred",
+    "id": 519,
+    "baseCardId": 519,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_snowman.png"
+  },
+  {
+    "name": "Golden Mantella",
+    "atk": 4,
+    "hp": 2,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 11056,
+    "baseCardId": 11056,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_goldenmantella.png"
+  },
+  {
+    "name": "Golem Vanquisher",
+    "atk": 2,
+    "hp": 4,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 19039,
+    "baseCardId": 19039,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_golemstone.png"
+  },
+  {
+    "name": "Gore Horn",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Songhai Empire",
+    "id": 112,
+    "baseCardId": 112,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_tank.png"
+  },
+  {
+    "name": "Hydrax",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 11052,
+    "baseCardId": 11052,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_hydrax.png"
+  },
+  {
+    "name": "Iceblade Dryad",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Vanar Kindred",
+    "id": 533,
+    "baseCardId": 533,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_icedryad.png"
+  },
+  {
+    "name": "Imperial Mechanyst",
+    "atk": 2,
+    "hp": 5,
+    "manaCost": 3,
+    "factionName": "Vetruvian Imperium",
+    "id": 218,
+    "baseCardId": 218,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_palacetrinketeer.png"
+  },
+  {
+    "name": "Inner Oasis",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Vetruvian Imperium",
+    "id": 20153,
+    "baseCardId": 20153,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f3_inneroasis.png"
+  },
+  {
+    "name": "Ion",
+    "atk": 2,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 11051,
+    "baseCardId": 11051,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_ion.png"
+  },
+  {
+    "name": "Jade Monk",
+    "atk": 4,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Songhai Empire",
+    "id": 114,
+    "baseCardId": 114,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_ogremonk02.png"
+  },
+  {
+    "name": "Ki Beholder",
+    "atk": 3,
+    "hp": 2,
+    "manaCost": 3,
+    "factionName": "Songhai Empire",
+    "id": 128,
+    "baseCardId": 128,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_kibeholder.png"
+  },
+  {
+    "name": "Killing Edge",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Songhai Empire",
+    "id": 20102,
+    "baseCardId": 20102,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f2_killingedge.png"
+  },
+  {
+    "name": "Kinetic Equilibrium",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Magmar Aspects",
+    "id": 20162,
+    "baseCardId": 20162,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f5_kineticequilibrium.png"
+  },
+  {
+    "name": "Lady Locke",
+    "atk": 2,
+    "hp": 2,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 10987,
+    "baseCardId": 10987,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_ladylocke.png"
+  },
+  {
+    "name": "Lantern Fox",
+    "atk": 2,
+    "hp": 4,
+    "manaCost": 3,
+    "factionName": "Songhai Empire",
+    "id": 122,
+    "baseCardId": 122,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_lanternfox.png"
+  },
+  {
+    "name": "Martyrdom",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Lyonar Kingdoms",
+    "id": 20090,
+    "baseCardId": 20090,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f1_martydom.png"
+  },
+  {
+    "name": "Mirkblood Devourer",
+    "atk": 2,
+    "hp": 4,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 19047,
+    "baseCardId": 19047,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_beastmirkwooddevourer.png"
+  },
+  {
+    "name": "Mogwai",
+    "atk": 2,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 11008,
+    "baseCardId": 11008,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_mogwai.png"
+  },
+  {
+    "name": "Moloki Huntress",
+    "atk": 1,
+    "hp": 2,
+    "manaCost": 3,
+    "factionName": "Magmar Aspects",
+    "id": 423,
+    "baseCardId": 423,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_molokihuntress.png"
+  },
+  {
+    "name": "Nightsorrow Assassin",
+    "atk": 2,
+    "hp": 1,
+    "manaCost": 3,
+    "factionName": "Abyssian Host",
+    "id": 319,
+    "baseCardId": 319,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_nightsorrow.png"
+  },
+  {
+    "name": "Onyx Bear Seal",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Songhai Empire",
+    "id": 20087,
+    "baseCardId": 20087,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f2_onyxbearseal.png"
+  },
+  {
+    "name": "Orb Weaver",
+    "atk": 2,
+    "hp": 2,
+    "manaCost": 3,
+    "factionName": "Vetruvian Imperium",
+    "id": 212,
+    "baseCardId": 212,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_dunecaster.png"
+  },
+  {
+    "name": "Portal Guardian",
+    "atk": 0,
+    "hp": 6,
+    "manaCost": 3,
+    "factionName": "Vetruvian Imperium",
+    "id": 221,
+    "baseCardId": 221,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_zodiac02.png"
+  },
+  {
+    "name": "Primordial Gazer",
+    "atk": 2,
+    "hp": 2,
+    "manaCost": 3,
+    "factionName": "Magmar Aspects",
+    "id": 410,
+    "baseCardId": 410,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_primordialgazer.png"
+  },
+  {
+    "name": "Prismatic Illusionist",
+    "atk": 2,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 10303,
+    "baseCardId": 10303,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_prismaticillusionist.png"
+  },
+  {
+    "name": "Psychic Conduit",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Vetruvian Imperium",
+    "id": 20197,
+    "baseCardId": 20197,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f3_psychicconduit.png"
+  },
+  {
+    "name": "Putrid Dreadflayer",
+    "atk": 2,
+    "hp": 4,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 19033,
+    "baseCardId": 19033,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_monsterputridmindflayer.png"
+  },
+  {
+    "name": "Radiant Dragoon",
+    "atk": 3,
+    "hp": 4,
+    "manaCost": 3,
+    "factionName": "Lyonar Kingdoms",
+    "id": 28,
+    "baseCardId": 28,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_radiantdragoon.png"
+  },
+  {
+    "name": "Repulsor Beast",
+    "atk": 2,
+    "hp": 2,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 10016,
+    "baseCardId": 10016,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_beastrepulsion.png"
+  },
+  {
+    "name": "Ritual Banishing",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Abyssian Host",
+    "id": 20057,
+    "baseCardId": 20057,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f4_ritualbanishing.png"
+  },
+  {
+    "name": "Saberspine Tiger",
+    "atk": 3,
+    "hp": 2,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 10012,
+    "baseCardId": 10012,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_beastsaberspinetiger.png"
+  },
+  {
+    "name": "Sand Burrower",
+    "atk": 2,
+    "hp": 4,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 10014,
+    "baseCardId": 10014,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_monsterblacksandburrower.png"
+  },
+  {
+    "name": "Sand Howler",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Vetruvian Imperium",
+    "id": 210,
+    "baseCardId": 210,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_sandhowler.png"
+  },
+  {
+    "name": "Sapphire Seer",
+    "atk": 2,
+    "hp": 2,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 11027,
+    "baseCardId": 11027,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_sapphireseer.png"
+  },
+  {
+    "name": "Sarlac the Eternal",
+    "atk": 1,
+    "hp": 1,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 19045,
+    "baseCardId": 19045,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_sunstonemaiden.png"
+  },
+  {
+    "name": "Sarlac the Eternal",
+    "atk": 1,
+    "hp": 1,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 2019045,
+    "baseCardId": 19045,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_sarlacmk2.png"
+  },
+  {
+    "name": "Scion's Third Wish",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Vetruvian Imperium",
+    "id": 20097,
+    "baseCardId": 20097,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f3_scionsthirdwish.png"
+  },
+  {
+    "name": "Shadow Reflection",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Abyssian Host",
+    "id": 20065,
+    "baseCardId": 20065,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f4_shadowreflection.png"
+  },
+  {
+    "name": "Shadow Watcher",
+    "atk": 2,
+    "hp": 2,
+    "manaCost": 3,
+    "factionName": "Abyssian Host",
+    "id": 311,
+    "baseCardId": 311,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_engulfingshadow.png"
+  },
+  {
+    "name": "Silverguard Knight",
+    "atk": 1,
+    "hp": 5,
+    "manaCost": 3,
+    "factionName": "Lyonar Kingdoms",
+    "id": 11,
+    "baseCardId": 11,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_tank.png"
+  },
+  {
+    "name": "Silvertongue Corsair",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 10009,
+    "baseCardId": 10009,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_mercpirate.png"
+  },
+  {
+    "name": "Sky Burial",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Lyonar Kingdoms",
+    "id": 20187,
+    "baseCardId": 20187,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f1_skyburial.png"
+  },
+  {
+    "name": "Skywind Glaives",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Lyonar Kingdoms",
+    "id": 30001,
+    "baseCardId": 30001,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/artifact_f1_skywindglaives.png"
+  },
+  {
+    "name": "Skywing",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 11035,
+    "baseCardId": 11035,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_skywing.png"
+  },
+  {
+    "name": "Snow Rippler",
+    "atk": 3,
+    "hp": 4,
+    "manaCost": 3,
+    "factionName": "Vanar Kindred",
+    "id": 529,
+    "baseCardId": 529,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_snowrippler.png"
+  },
+  {
+    "name": "Snowpiercer",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Vanar Kindred",
+    "id": 30015,
+    "baseCardId": 30015,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/artifact_f6_snowpiercer.png"
+  },
+  {
+    "name": "Soboro",
+    "atk": 2,
+    "hp": 4,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 11058,
+    "baseCardId": 11058,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_soboro.png"
+  },
+  {
+    "name": "Sojourner",
+    "atk": 1,
+    "hp": 5,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 19049,
+    "baseCardId": 19049,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_mercgambitgirl.png"
+  },
+  {
+    "name": "Songweaver",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 10992,
+    "baseCardId": 10992,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_mercsongweaver.png"
+  },
+  {
+    "name": "Soul Grimwar",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Abyssian Host",
+    "id": 30002,
+    "baseCardId": 30002,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/artifact_f4_soulgrimwar.png"
+  },
+  {
+    "name": "Spelljammer",
+    "atk": 2,
+    "hp": 4,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 10975,
+    "baseCardId": 10975,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_spelljammer.png"
+  },
+  {
+    "name": "Spelljammer",
+    "atk": 2,
+    "hp": 4,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 2010975,
+    "baseCardId": 10975,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_spellsammermk2.png"
+  },
+  {
+    "name": "Sun Seer",
+    "atk": 2,
+    "hp": 4,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 10301,
+    "baseCardId": 10301,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_mercsunseer.png"
+  },
+  {
+    "name": "Sunforge Lancer",
+    "atk": 2,
+    "hp": 4,
+    "manaCost": 3,
+    "factionName": "Lyonar Kingdoms",
+    "id": 29,
+    "baseCardId": 29,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_sunforgelancer.png"
+  },
+  {
+    "name": "Sword of MECHAZ0R",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 19005,
+    "baseCardId": 19005,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_mechaz0rsword.png"
+  },
+  {
+    "name": "Sworn Avenger",
+    "atk": 1,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 10954,
+    "baseCardId": 10954,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_mercswornavanger.png"
+  },
+  {
+    "name": "Syvrel the Exile",
+    "atk": 1,
+    "hp": 4,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 10974,
+    "baseCardId": 10974,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_syvrel.png"
+  },
+  {
+    "name": "Thumping Wave",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Magmar Aspects",
+    "id": 20218,
+    "baseCardId": 20218,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f5_thumpingwave.png"
+  },
+  {
+    "name": "Time Maelstrom",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Vetruvian Imperium",
+    "id": 20078,
+    "baseCardId": 20078,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f3_maelstrom.png"
+  },
+  {
+    "name": "Twin Fang",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Magmar Aspects",
+    "id": 30017,
+    "baseCardId": 30017,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/artifact_f5_twinfang.png"
+  },
+  {
+    "name": "Twin Strike",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Songhai Empire",
+    "id": 20082,
+    "baseCardId": 20082,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f2_twin_strike.png"
+  },
+  {
+    "name": "Venom Toth",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 10960,
+    "baseCardId": 10960,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_merctwinbladewarmonger.png"
+  },
+  {
+    "name": "Vindicator",
+    "atk": 1,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Magmar Aspects",
+    "id": 417,
+    "baseCardId": 417,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_vindicator.png"
+  },
+  {
+    "name": "Void Hunter",
+    "atk": 4,
+    "hp": 2,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 10982,
+    "baseCardId": 10982,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_voidhunter.png"
+  },
+  {
+    "name": "Void Steal",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Abyssian Host",
+    "id": 20205,
+    "baseCardId": 20205,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f4_voidsteal.png"
+  },
+  {
+    "name": "Widowmaker",
+    "atk": 2,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Songhai Empire",
+    "id": 109,
+    "baseCardId": 109,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_ranged.png"
+  },
+  {
+    "name": "Wildfire Ankh",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Vetruvian Imperium",
+    "id": 30008,
+    "baseCardId": 30008,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/artifact_f3_wildfireankh.png"
+  },
+  {
+    "name": "Wind Runner",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 11007,
+    "baseCardId": 11007,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_windrunner.png"
+  },
+  {
+    "name": "Wind Stopper",
+    "atk": 1,
+    "hp": 7,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 19010,
+    "baseCardId": 19010,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_mercshieldoracle.png"
+  },
+  {
+    "name": "Windstorm Obelysk",
+    "atk": 0,
+    "hp": 6,
+    "manaCost": 3,
+    "factionName": "Vetruvian Imperium",
+    "id": 216,
+    "baseCardId": 216,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_obelyskduskwind.png"
+  },
+  {
+    "name": "Wings of Paradise",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 11020,
+    "baseCardId": 11020,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_wingsofparadise.png"
+  },
+  {
+    "name": "Wolfraven",
+    "atk": 1,
+    "hp": 4,
+    "manaCost": 3,
+    "factionName": "Vanar Kindred",
+    "id": 511,
+    "baseCardId": 511,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_wolfraven.png"
+  },
+  {
+    "name": "Wraithling Fury",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Abyssian Host",
+    "id": 20089,
+    "baseCardId": 20089,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f4_wraithlingfury.png"
+  },
+  {
+    "name": "Wraithling Swarm",
+    "atk": null,
+    "hp": null,
+    "manaCost": 3,
+    "factionName": "Abyssian Host",
+    "id": 20072,
+    "baseCardId": 20072,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f4_wraithlingswarm.png"
+  },
+  {
+    "name": "Yun",
+    "atk": 5,
+    "hp": 4,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 11004,
+    "baseCardId": 11004,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_yun.png"
+  },
+  {
+    "name": "Zukong",
+    "atk": 3,
+    "hp": 4,
+    "manaCost": 3,
+    "factionName": "Neutral",
+    "id": 11059,
+    "baseCardId": 11059,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_zukong.png"
+  },
+  {
+    "name": "Abyssal Juggernaut",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 4,
+    "factionName": "Abyssian Host",
+    "id": 309,
+    "baseCardId": 309,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_juggernaut.png"
+  },
+  {
+    "name": "Adamantite Claws",
+    "atk": null,
+    "hp": null,
+    "manaCost": 4,
+    "factionName": "Magmar Aspects",
+    "id": 30012,
+    "baseCardId": 30012,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/artifact_f5_adamantineclaws.png"
+  },
+  {
+    "name": "Allomancer",
+    "atk": 4,
+    "hp": 3,
+    "manaCost": 4,
+    "factionName": "Vetruvian Imperium",
+    "id": 231,
+    "baseCardId": 231,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_allomancer.png"
+  },
+  {
+    "name": "Ancestral Divination",
+    "atk": null,
+    "hp": null,
+    "manaCost": 4,
+    "factionName": "Songhai Empire",
+    "id": 20100,
+    "baseCardId": 20100,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f2_ancestralpact.png"
+  },
+  {
+    "name": "Arclyte Regalia",
+    "atk": null,
+    "hp": null,
+    "manaCost": 4,
+    "factionName": "Lyonar Kingdoms",
+    "id": 30018,
+    "baseCardId": 30018,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/artifact_f1_arclyteregalia.png"
+  },
+  {
+    "name": "Arrow Whistler",
+    "atk": 2,
+    "hp": 4,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 11033,
+    "baseCardId": 11033,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_arrowwhistler.png"
+  },
+  {
+    "name": "Artifact Hunter",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 10961,
+    "baseCardId": 10961,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_windstopper.png"
+  },
+  {
+    "name": "Aspect of the Drake",
+    "atk": null,
+    "hp": null,
+    "manaCost": 4,
+    "factionName": "Vanar Kindred",
+    "id": 20145,
+    "baseCardId": 20145,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f6_aspectofthedrake.png"
+  },
+  {
+    "name": "Avalanche",
+    "atk": null,
+    "hp": null,
+    "manaCost": 4,
+    "factionName": "Vanar Kindred",
+    "id": 20136,
+    "baseCardId": 20136,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f6_avalanche.png"
+  },
+  {
+    "name": "Black Locust",
+    "atk": 2,
+    "hp": 2,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 11006,
+    "baseCardId": 11006,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_blacklocust.png"
+  },
+  {
+    "name": "Bloodmoon Priestess",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 4,
+    "factionName": "Abyssian Host",
+    "id": 310,
+    "baseCardId": 310,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_bloodmoon.png"
+  },
+  {
+    "name": "Breath Of The Unborn",
+    "atk": null,
+    "hp": null,
+    "manaCost": 4,
+    "factionName": "Abyssian Host",
+    "id": 20131,
+    "baseCardId": 20131,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f4_breathoftheunborn.png"
+  },
+  {
+    "name": "Captain Hank Hart",
+    "atk": 2,
+    "hp": 4,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 10989,
+    "baseCardId": 10989,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_captainhankheart.png"
+  },
+  {
+    "name": "Chassis of MECHAZ0R",
+    "atk": 5,
+    "hp": 4,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 19006,
+    "baseCardId": 19006,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_mechaz0rchassis.png"
+  },
+  {
+    "name": "Chrysalis Burst",
+    "atk": null,
+    "hp": null,
+    "manaCost": 4,
+    "factionName": "Magmar Aspects",
+    "id": 20124,
+    "baseCardId": 20124,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f5_chrysalisburn.png"
+  },
+  {
+    "name": "Dark Seed",
+    "atk": null,
+    "hp": null,
+    "manaCost": 4,
+    "factionName": "Abyssian Host",
+    "id": 20069,
+    "baseCardId": 20069,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f4_darkseed.png"
+  },
+  {
+    "name": "Decimate",
+    "atk": null,
+    "hp": null,
+    "manaCost": 4,
+    "factionName": "Lyonar Kingdoms",
+    "id": 20128,
+    "baseCardId": 20128,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f1_decimate.png"
+  },
+  {
+    "name": "Deepfire Devourer",
+    "atk": 4,
+    "hp": 4,
+    "manaCost": 4,
+    "factionName": "Abyssian Host",
+    "id": 312,
+    "baseCardId": 312,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_daemondeep.png"
+  },
+  {
+    "name": "Dioltas",
+    "atk": 5,
+    "hp": 3,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 10976,
+    "baseCardId": 10976,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_dilotas_attack.png"
+  },
+  {
+    "name": "Earth Sister Taygete",
+    "atk": 3,
+    "hp": 4,
+    "manaCost": 4,
+    "factionName": "Magmar Aspects",
+    "id": 419,
+    "baseCardId": 419,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_sister.png"
+  },
+  {
+    "name": "Earth Sphere",
+    "atk": null,
+    "hp": null,
+    "manaCost": 4,
+    "factionName": "Magmar Aspects",
+    "id": 20117,
+    "baseCardId": 20117,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f5_earthsphere.png"
+  },
+  {
+    "name": "Egg Morph",
+    "atk": null,
+    "hp": null,
+    "manaCost": 4,
+    "factionName": "Magmar Aspects",
+    "id": 20157,
+    "baseCardId": 20157,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f5_eggmorph.png"
+  },
+  {
+    "name": "Elucidator",
+    "atk": 5,
+    "hp": 4,
+    "manaCost": 4,
+    "factionName": "Magmar Aspects",
+    "id": 407,
+    "baseCardId": 407,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_support.png"
+  },
+  {
+    "name": "Emerald Rejuvenator",
+    "atk": 4,
+    "hp": 4,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 10995,
+    "baseCardId": 10995,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_rejuvenator.png"
+  },
+  {
+    "name": "Entropic Decay",
+    "atk": null,
+    "hp": null,
+    "manaCost": 4,
+    "factionName": "Vetruvian Imperium",
+    "id": 20077,
+    "baseCardId": 20077,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f3_entropicdecay.png"
+  },
+  {
+    "name": "Fire Spitter",
+    "atk": 3,
+    "hp": 2,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 10017,
+    "baseCardId": 10017,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_mercgrenadier.png"
+  },
+  {
+    "name": "Four Winds Magi",
+    "atk": 4,
+    "hp": 4,
+    "manaCost": 4,
+    "factionName": "Songhai Empire",
+    "id": 116,
+    "baseCardId": 116,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_mage4winds.png"
+  },
+  {
+    "name": "Frostbone Naga",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 19042,
+    "baseCardId": 19042,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_mercfrostbonenaga.png"
+  },
+  {
+    "name": "Ghost Azalea",
+    "atk": null,
+    "hp": null,
+    "manaCost": 4,
+    "factionName": "Abyssian Host",
+    "id": 30020,
+    "baseCardId": 30020,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/artifact_f4_ghostazalea.png"
+  },
+  {
+    "name": "Gnasher",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 11057,
+    "baseCardId": 11057,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_gnasher.png"
+  },
+  {
+    "name": "Grimrock",
+    "atk": 3,
+    "hp": 4,
+    "manaCost": 4,
+    "factionName": "Magmar Aspects",
+    "id": 403,
+    "baseCardId": 403,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_grimrock.png"
+  },
+  {
+    "name": "Hailstone Golem",
+    "atk": 4,
+    "hp": 6,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 10978,
+    "baseCardId": 10978,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_golemice.png"
+  },
+  {
+    "name": "Hexblade",
+    "atk": null,
+    "hp": null,
+    "manaCost": 4,
+    "factionName": "Vetruvian Imperium",
+    "id": 30011,
+    "baseCardId": 30011,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/artifact_f3_hexblade.png"
+  },
+  {
+    "name": "Holy Immolation",
+    "atk": null,
+    "hp": null,
+    "manaCost": 4,
+    "factionName": "Lyonar Kingdoms",
+    "id": 20067,
+    "baseCardId": 20067,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f1_holyimmolation.png"
+  },
+  {
+    "name": "Ironcliffe Heart",
+    "atk": null,
+    "hp": null,
+    "manaCost": 4,
+    "factionName": "Lyonar Kingdoms",
+    "id": 20186,
+    "baseCardId": 20186,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/f1_ironcliffeheart.png"
+  },
+  {
+    "name": "Keshrai Fanblade",
+    "atk": 5,
+    "hp": 3,
+    "manaCost": 4,
+    "factionName": "Songhai Empire",
+    "id": 120,
+    "baseCardId": 120,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_keshraifanblade.png"
+  },
+  {
+    "name": "Lightbender",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 10306,
+    "baseCardId": 10306,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_mercarcanelimiter.png"
+  },
+  {
+    "name": "Lysian Brawler",
+    "atk": 4,
+    "hp": 4,
+    "manaCost": 4,
+    "factionName": "Lyonar Kingdoms",
+    "id": 8,
+    "baseCardId": 8,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_silvermanevanguard.png"
+  },
+  {
+    "name": "Mind Steal",
+    "atk": null,
+    "hp": null,
+    "manaCost": 4,
+    "factionName": "Magmar Aspects",
+    "id": 20156,
+    "baseCardId": 20156,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f5_mindsteal.png"
+  },
+  {
+    "name": "Mindwarper",
+    "atk": 4,
+    "hp": 3,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 10965,
+    "baseCardId": 10965,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_mercmindwarper.png"
+  },
+  {
+    "name": "Mirage Master",
+    "atk": 1,
+    "hp": 1,
+    "manaCost": 4,
+    "factionName": "Vetruvian Imperium",
+    "id": 219,
+    "baseCardId": 219,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_glassmirage.png"
+  },
+  {
+    "name": "Moebius",
+    "atk": 3,
+    "hp": 5,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 10988,
+    "baseCardId": 10988,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_moebius.png"
+  },
+  {
+    "name": "Night Watcher",
+    "atk": 2,
+    "hp": 4,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 11080,
+    "baseCardId": 11080,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_nightwatcher.png"
+  },
+  {
+    "name": "Owlbeast Sage",
+    "atk": 4,
+    "hp": 4,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 10305,
+    "baseCardId": 10305,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_mercowlbearmage.png"
+  },
+  {
+    "name": "Pandamonium",
+    "atk": null,
+    "hp": null,
+    "manaCost": 4,
+    "factionName": "Songhai Empire",
+    "id": 20193,
+    "baseCardId": 20193,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f2_ursamonsoon.png"
+  },
+  {
+    "name": "Primus Shieldmaster",
+    "atk": 3,
+    "hp": 6,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 19027,
+    "baseCardId": 19027,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_primusshieldmaster.png"
+  },
+  {
+    "name": "Purgatos, The Realmkeeper",
+    "atk": 3,
+    "hp": 4,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 10991,
+    "baseCardId": 10991,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_purgatos.png"
+  },
+  {
+    "name": "Razorback",
+    "atk": 4,
+    "hp": 3,
+    "manaCost": 4,
+    "factionName": "Vanar Kindred",
+    "id": 513,
+    "baseCardId": 513,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_sentinel.png"
+  },
+  {
+    "name": "Sand Sister Saon",
+    "atk": 3,
+    "hp": 4,
+    "manaCost": 4,
+    "factionName": "Vetruvian Imperium",
+    "id": 224,
+    "baseCardId": 224,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_sister.png"
+  },
+  {
+    "name": "Shadow Nova",
+    "atk": null,
+    "hp": null,
+    "manaCost": 4,
+    "factionName": "Abyssian Host",
+    "id": 20051,
+    "baseCardId": 20051,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f4_shadownova.png"
+  },
+  {
+    "name": "Shadow Sister Kelaino",
+    "atk": 2,
+    "hp": 5,
+    "manaCost": 4,
+    "factionName": "Abyssian Host",
+    "id": 324,
+    "baseCardId": 324,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_sister.png"
+  },
+  {
+    "name": "Silhouette Tracer",
+    "atk": 2,
+    "hp": 6,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 19044,
+    "baseCardId": 19044,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_silhouettetracer.png"
+  },
+  {
+    "name": "Sphynx",
+    "atk": 5,
+    "hp": 4,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 11078,
+    "baseCardId": 11078,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_pennyarcade04.png"
+  },
+  {
+    "name": "Storm Sister Alkyone",
+    "atk": 3,
+    "hp": 5,
+    "manaCost": 4,
+    "factionName": "Songhai Empire",
+    "id": 124,
+    "baseCardId": 124,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_sister.png"
+  },
+  {
+    "name": "Sun Elemental",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 11015,
+    "baseCardId": 11015,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_sunelemental.png"
+  },
+  {
+    "name": "Sun Sister Sterope",
+    "atk": 4,
+    "hp": 4,
+    "manaCost": 4,
+    "factionName": "Lyonar Kingdoms",
+    "id": 24,
+    "baseCardId": 24,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_sister.png"
+  },
+  {
+    "name": "Sunriser",
+    "atk": 3,
+    "hp": 4,
+    "manaCost": 4,
+    "factionName": "Lyonar Kingdoms",
+    "id": 22,
+    "baseCardId": 22,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_sunriser.png"
+  },
+  {
+    "name": "Sunsteel Defender",
+    "atk": 4,
+    "hp": 3,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 11028,
+    "baseCardId": 11028,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_sunsteeldefender.png"
+  },
+  {
+    "name": "Suntide Maiden",
+    "atk": 3,
+    "hp": 6,
+    "manaCost": 4,
+    "factionName": "Lyonar Kingdoms",
+    "id": 16,
+    "baseCardId": 16,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_support.png"
+  },
+  {
+    "name": "Sworn Sister L'Kian",
+    "atk": 2,
+    "hp": 4,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 11041,
+    "baseCardId": 11041,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_sister.png"
+  },
+  {
+    "name": "Tethermancer",
+    "atk": 1,
+    "hp": 6,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 11025,
+    "baseCardId": 11025,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_tethermancer.png"
+  },
+  {
+    "name": "Thorn Needler",
+    "atk": 6,
+    "hp": 4,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 19031,
+    "baseCardId": 19031,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_mercneedler.png"
+  },
+  {
+    "name": "Unseven",
+    "atk": 2,
+    "hp": 4,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 11036,
+    "baseCardId": 11036,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_unseven.png"
+  },
+  {
+    "name": "Veteran Silithar",
+    "atk": 4,
+    "hp": 3,
+    "manaCost": 4,
+    "factionName": "Magmar Aspects",
+    "id": 413,
+    "baseCardId": 413,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_silitharveteran.png"
+  },
+  {
+    "name": "Voice of the Wind",
+    "atk": 4,
+    "hp": 4,
+    "manaCost": 4,
+    "factionName": "Vanar Kindred",
+    "id": 515,
+    "baseCardId": 515,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_voiceofthewind.png"
+  },
+  {
+    "name": "Wailing Overdrive",
+    "atk": null,
+    "hp": null,
+    "manaCost": 4,
+    "factionName": "Vanar Kindred",
+    "id": 20208,
+    "baseCardId": 20208,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f6_wailingoverdrive.png"
+  },
+  {
+    "name": "White Asp",
+    "atk": null,
+    "hp": null,
+    "manaCost": 4,
+    "factionName": "Vanar Kindred",
+    "id": 30021,
+    "baseCardId": 30021,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/artifact_f6_whiteasp.png"
+  },
+  {
+    "name": "White Widow",
+    "atk": 3,
+    "hp": 4,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 11019,
+    "baseCardId": 11019,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_whitewidow.png"
+  },
+  {
+    "name": "Wild Inceptor",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 4,
+    "factionName": "Magmar Aspects",
+    "id": 422,
+    "baseCardId": 422,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_wildinceptor.png"
+  },
+  {
+    "name": "Wind Shrike",
+    "atk": 4,
+    "hp": 3,
+    "manaCost": 4,
+    "factionName": "Vetruvian Imperium",
+    "id": 208,
+    "baseCardId": 208,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_windshriek.png"
+  },
+  {
+    "name": "Wind Sister Maia",
+    "atk": 4,
+    "hp": 5,
+    "manaCost": 4,
+    "factionName": "Vanar Kindred",
+    "id": 528,
+    "baseCardId": 528,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_sister.png"
+  },
+  {
+    "name": "Winterblade",
+    "atk": null,
+    "hp": null,
+    "manaCost": 4,
+    "factionName": "Vanar Kindred",
+    "id": 30019,
+    "baseCardId": 30019,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/artifact_f6_winterblade.png"
+  },
+  {
+    "name": "Young Flamewing",
+    "atk": 5,
+    "hp": 4,
+    "manaCost": 4,
+    "factionName": "Neutral",
+    "id": 19034,
+    "baseCardId": 19034,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_monsterflamewing.png"
+  },
+  {
+    "name": "Alter Rexx",
+    "atk": 4,
+    "hp": 4,
+    "manaCost": 5,
+    "factionName": "Neutral",
+    "id": 11040,
+    "baseCardId": 11040,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_alterrexx.png"
+  },
+  {
+    "name": "Arctic Displacer",
+    "atk": 10,
+    "hp": 4,
+    "manaCost": 5,
+    "factionName": "Vanar Kindred",
+    "id": 526,
+    "baseCardId": 526,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_snowwyvern.png"
+  },
+  {
+    "name": "Ash Mephyt",
+    "atk": 2,
+    "hp": 3,
+    "manaCost": 5,
+    "factionName": "Neutral",
+    "id": 10983,
+    "baseCardId": 10983,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_ashmephyt.png"
+  },
+  {
+    "name": "Beastmaster",
+    "atk": 2,
+    "hp": 5,
+    "manaCost": 5,
+    "factionName": "Neutral",
+    "id": 11054,
+    "baseCardId": 11054,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_beastmaster.png"
+  },
+  {
+    "name": "Black Solus",
+    "atk": 4,
+    "hp": 7,
+    "manaCost": 5,
+    "factionName": "Abyssian Host",
+    "id": 321,
+    "baseCardId": 321,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_blacksolus.png"
+  },
+  {
+    "name": "Brightmoss Golem",
+    "atk": 4,
+    "hp": 9,
+    "manaCost": 5,
+    "factionName": "Neutral",
+    "id": 10204,
+    "baseCardId": 10204,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_golemnature.png"
+  },
+  {
+    "name": "Calculator",
+    "atk": 1,
+    "hp": 1,
+    "manaCost": 5,
+    "factionName": "Neutral",
+    "id": 11063,
+    "baseCardId": 11063,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_calculator.png"
+  },
+  {
+    "name": "Chakkram",
+    "atk": 5,
+    "hp": 5,
+    "manaCost": 5,
+    "factionName": "Neutral",
+    "id": 11042,
+    "baseCardId": 11042,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_chakkram.png"
+  },
+  {
+    "name": "Circle of Life",
+    "atk": null,
+    "hp": null,
+    "manaCost": 5,
+    "factionName": "Lyonar Kingdoms",
+    "id": 20104,
+    "baseCardId": 20104,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f1_circleoflife.png"
+  },
+  {
+    "name": "Corpse Combustion",
+    "atk": null,
+    "hp": null,
+    "manaCost": 5,
+    "factionName": "Vetruvian Imperium",
+    "id": 20198,
+    "baseCardId": 20198,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f3_corpsecombustion.png"
+  },
+  {
+    "name": "Dagger Kiri",
+    "atk": 2,
+    "hp": 8,
+    "manaCost": 5,
+    "factionName": "Neutral",
+    "id": 10958,
+    "baseCardId": 10958,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_mercdaggerkiri.png"
+  },
+  {
+    "name": "Dancing Blades",
+    "atk": 4,
+    "hp": 6,
+    "manaCost": 5,
+    "factionName": "Neutral",
+    "id": 10959,
+    "baseCardId": 10959,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_monsterdancingblades.png"
+  },
+  {
+    "name": "Dark Transformation",
+    "atk": null,
+    "hp": null,
+    "manaCost": 5,
+    "factionName": "Abyssian Host",
+    "id": 20061,
+    "baseCardId": 20061,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f4_darktransformation.png"
+  },
+  {
+    "name": "Envybaer",
+    "atk": 3,
+    "hp": 7,
+    "manaCost": 5,
+    "factionName": "Neutral",
+    "id": 11048,
+    "baseCardId": 11048,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_envybaer.png"
+  },
+  {
+    "name": "Fireblazer",
+    "atk": 5,
+    "hp": 5,
+    "manaCost": 5,
+    "factionName": "Neutral",
+    "id": 19028,
+    "baseCardId": 19028,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_monsterdarkharbinger.png"
+  },
+  {
+    "name": "Firestarter",
+    "atk": 3,
+    "hp": 5,
+    "manaCost": 5,
+    "factionName": "Neutral",
+    "id": 11011,
+    "baseCardId": 11011,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_firestarter.png"
+  },
+  {
+    "name": "Frostburn",
+    "atk": null,
+    "hp": null,
+    "manaCost": 5,
+    "factionName": "Vanar Kindred",
+    "id": 20207,
+    "baseCardId": 20207,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f6_frostburn.png"
+  },
+  {
+    "name": "Frosthorn Rhyno",
+    "atk": 6,
+    "hp": 5,
+    "manaCost": 5,
+    "factionName": "Vanar Kindred",
+    "id": 507,
+    "baseCardId": 507,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_arcticrhyno.png"
+  },
+  {
+    "name": "Frostiva",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 5,
+    "factionName": "Vanar Kindred",
+    "id": 534,
+    "baseCardId": 534,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_frostiva.png"
+  },
+  {
+    "name": "Golden Justicar",
+    "atk": 4,
+    "hp": 6,
+    "manaCost": 5,
+    "factionName": "Neutral",
+    "id": 11034,
+    "baseCardId": 11034,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_goldenjusticar.png"
+  },
+  {
+    "name": "Grincher",
+    "atk": 5,
+    "hp": 4,
+    "manaCost": 5,
+    "factionName": "Neutral",
+    "id": 11049,
+    "baseCardId": 11049,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_grincher.png"
+  },
+  {
+    "name": "Hamon Bladeseeker",
+    "atk": 8,
+    "hp": 8,
+    "manaCost": 5,
+    "factionName": "Songhai Empire",
+    "id": 119,
+    "baseCardId": 119,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_hammonnladeseeker.png"
+  },
+  {
+    "name": "Heaven's Eclipse",
+    "atk": null,
+    "hp": null,
+    "manaCost": 5,
+    "factionName": "Songhai Empire",
+    "id": 20155,
+    "baseCardId": 20155,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f2_heavens_eclipse.png"
+  },
+  {
+    "name": "Hollow Grovekeeper",
+    "atk": 3,
+    "hp": 4,
+    "manaCost": 5,
+    "factionName": "Neutral",
+    "id": 11024,
+    "baseCardId": 11024,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_hollowgrovekeeper.png"
+  },
+  {
+    "name": "Huldra",
+    "atk": 3,
+    "hp": 4,
+    "manaCost": 5,
+    "factionName": "Vanar Kindred",
+    "id": 532,
+    "baseCardId": 532,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_huldra.png"
+  },
+  {
+    "name": "Inquisitor Kron",
+    "atk": 4,
+    "hp": 6,
+    "manaCost": 5,
+    "factionName": "Neutral",
+    "id": 11064,
+    "baseCardId": 11064,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_inquisitorkron.png"
+  },
+  {
+    "name": "Ironcliffe Guardian",
+    "atk": 3,
+    "hp": 10,
+    "manaCost": 5,
+    "factionName": "Lyonar Kingdoms",
+    "id": 17,
+    "baseCardId": 17,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_ironcliffeguardian.png"
+  },
+  {
+    "name": "Keeper of the Vale",
+    "atk": 3,
+    "hp": 4,
+    "manaCost": 5,
+    "factionName": "Neutral",
+    "id": 11018,
+    "baseCardId": 11018,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_keeperofthevale.png"
+  },
+  {
+    "name": "Keeper of the Vale",
+    "atk": 3,
+    "hp": 4,
+    "manaCost": 5,
+    "factionName": "Neutral",
+    "id": 2011018,
+    "baseCardId": 11018,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_keeperofthevalue.png"
+  },
+  {
+    "name": "Kolossus",
+    "atk": 1,
+    "hp": 7,
+    "manaCost": 5,
+    "factionName": "Magmar Aspects",
+    "id": 404,
+    "baseCardId": 404,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_kolossus.png"
+  },
+  {
+    "name": "Lux Ignis",
+    "atk": 2,
+    "hp": 5,
+    "manaCost": 5,
+    "factionName": "Neutral",
+    "id": 10973,
+    "baseCardId": 10973,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_luxignis.png"
+  },
+  {
+    "name": "Morin-Khur",
+    "atk": null,
+    "hp": null,
+    "manaCost": 5,
+    "factionName": "Magmar Aspects",
+    "id": 30025,
+    "baseCardId": 30025,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/artifact_f5_morinkhur.png"
+  },
+  {
+    "name": "Nature's Confluence",
+    "atk": null,
+    "hp": null,
+    "manaCost": 5,
+    "factionName": "Magmar Aspects",
+    "id": 20206,
+    "baseCardId": 20206,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f5_naturesconfluence.png"
+  },
+  {
+    "name": "Necroseer",
+    "atk": 5,
+    "hp": 4,
+    "manaCost": 5,
+    "factionName": "Neutral",
+    "id": 11031,
+    "baseCardId": 11031,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_tribalcaster.png"
+  },
+  {
+    "name": "Nether Summoning",
+    "atk": null,
+    "hp": null,
+    "manaCost": 5,
+    "factionName": "Abyssian Host",
+    "id": 20050,
+    "baseCardId": 20050,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f4_nethersummoning.png"
+  },
+  {
+    "name": "Night Fiend",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 5,
+    "factionName": "Abyssian Host",
+    "id": 325,
+    "baseCardId": 325,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_nightfiend.png"
+  },
+  {
+    "name": "Nimbus",
+    "atk": 3,
+    "hp": 8,
+    "manaCost": 5,
+    "factionName": "Vetruvian Imperium",
+    "id": 232,
+    "baseCardId": 232,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_nimbus.png"
+  },
+  {
+    "name": "Onyx Jaguar",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 5,
+    "factionName": "Songhai Empire",
+    "id": 127,
+    "baseCardId": 127,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_onyxjaguar.png"
+  },
+  {
+    "name": "Plasma Storm",
+    "atk": null,
+    "hp": null,
+    "manaCost": 5,
+    "factionName": "Magmar Aspects",
+    "id": 20122,
+    "baseCardId": 20122,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f5_plasmastorm.png"
+  },
+  {
+    "name": "Rawr",
+    "atk": 3,
+    "hp": 7,
+    "manaCost": 5,
+    "factionName": "Neutral",
+    "id": 11060,
+    "baseCardId": 11060,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_rawr.png"
+  },
+  {
+    "name": "Reaper of the Nine Moons",
+    "atk": 5,
+    "hp": 3,
+    "manaCost": 5,
+    "factionName": "Abyssian Host",
+    "id": 322,
+    "baseCardId": 322,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_reaperninemoons.png"
+  },
+  {
+    "name": "Rite Of The Undervault",
+    "atk": null,
+    "hp": null,
+    "manaCost": 5,
+    "factionName": "Abyssian Host",
+    "id": 20154,
+    "baseCardId": 20154,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f4_riteoftheundervault.png"
+  },
+  {
+    "name": "Rogue Warden",
+    "atk": 4,
+    "hp": 3,
+    "manaCost": 5,
+    "factionName": "Neutral",
+    "id": 19032,
+    "baseCardId": 19032,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_ranged.png"
+  },
+  {
+    "name": "Scarlet Viper",
+    "atk": 2,
+    "hp": 5,
+    "manaCost": 5,
+    "factionName": "Songhai Empire",
+    "id": 111,
+    "baseCardId": 111,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_support.png"
+  },
+  {
+    "name": "Second Sun",
+    "atk": 0,
+    "hp": 8,
+    "manaCost": 5,
+    "factionName": "Lyonar Kingdoms",
+    "id": 13,
+    "baseCardId": 13,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_windbladecommander.png"
+  },
+  {
+    "name": "Shadowdancer",
+    "atk": 4,
+    "hp": 4,
+    "manaCost": 5,
+    "factionName": "Abyssian Host",
+    "id": 318,
+    "baseCardId": 318,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_shadowdancer.png"
+  },
+  {
+    "name": "Spinecleaver",
+    "atk": null,
+    "hp": null,
+    "manaCost": 5,
+    "factionName": "Vetruvian Imperium",
+    "id": 30022,
+    "baseCardId": 30022,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/artifact_f3_spinecleaver.png"
+  },
+  {
+    "name": "Spirit Harvester",
+    "atk": 5,
+    "hp": 5,
+    "manaCost": 5,
+    "factionName": "Magmar Aspects",
+    "id": 415,
+    "baseCardId": 415,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_spiritharvester.png"
+  },
+  {
+    "name": "Spirit of the Wild",
+    "atk": null,
+    "hp": null,
+    "manaCost": 5,
+    "factionName": "Vanar Kindred",
+    "id": 20163,
+    "baseCardId": 20163,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f6_spiritofthewild.png"
+  },
+  {
+    "name": "Starfire Scarab",
+    "atk": 4,
+    "hp": 6,
+    "manaCost": 5,
+    "factionName": "Vetruvian Imperium",
+    "id": 209,
+    "baseCardId": 209,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_starfirescarab.png"
+  },
+  {
+    "name": "Stars' Fury",
+    "atk": null,
+    "hp": null,
+    "manaCost": 5,
+    "factionName": "Vetruvian Imperium",
+    "id": 20105,
+    "baseCardId": 20105,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f3_starsfury.png"
+  },
+  {
+    "name": "Sunset Paragon",
+    "atk": 3,
+    "hp": 2,
+    "manaCost": 5,
+    "factionName": "Neutral",
+    "id": 11030,
+    "baseCardId": 11030,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_sunsetparagon.png"
+  },
+  {
+    "name": "Sworn Defender",
+    "atk": 4,
+    "hp": 7,
+    "manaCost": 5,
+    "factionName": "Neutral",
+    "id": 10955,
+    "baseCardId": 10955,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_mercsworndefender.png"
+  },
+  {
+    "name": "The High Hand",
+    "atk": 2,
+    "hp": 3,
+    "manaCost": 5,
+    "factionName": "Neutral",
+    "id": 10985,
+    "baseCardId": 10985,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_highhand.png"
+  },
+  {
+    "name": "Twilight Sorcerer",
+    "atk": 3,
+    "hp": 6,
+    "manaCost": 5,
+    "factionName": "Neutral",
+    "id": 10022,
+    "baseCardId": 10022,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_merctwilightmage.png"
+  },
+  {
+    "name": "Visionar",
+    "atk": 6,
+    "hp": 3,
+    "manaCost": 5,
+    "factionName": "Magmar Aspects",
+    "id": 426,
+    "baseCardId": 426,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_visionar.png"
+  },
+  {
+    "name": "Zen'Rui, The BlightSpawned",
+    "atk": 4,
+    "hp": 3,
+    "manaCost": 5,
+    "factionName": "Neutral",
+    "id": 10994,
+    "baseCardId": 10994,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_zenrui.png"
+  },
+  {
+    "name": "Archon Spellbinder",
+    "atk": 7,
+    "hp": 7,
+    "manaCost": 6,
+    "factionName": "Neutral",
+    "id": 19043,
+    "baseCardId": 19043,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_mercarchonspellbinder.png"
+  },
+  {
+    "name": "Aspect of the Mountains",
+    "atk": null,
+    "hp": null,
+    "manaCost": 6,
+    "factionName": "Vanar Kindred",
+    "id": 20146,
+    "baseCardId": 20146,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f6_aspectofthemountains.png"
+  },
+  {
+    "name": "Aymara Healer",
+    "atk": 5,
+    "hp": 5,
+    "manaCost": 6,
+    "factionName": "Vetruvian Imperium",
+    "id": 220,
+    "baseCardId": 220,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_aymarahealer.png"
+  },
+  {
+    "name": "Bloodletter",
+    "atk": 4,
+    "hp": 6,
+    "manaCost": 6,
+    "factionName": "Neutral",
+    "id": 11032,
+    "baseCardId": 11032,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_mercmelee3.png"
+  },
+  {
+    "name": "Bonereaper",
+    "atk": 2,
+    "hp": 9,
+    "manaCost": 6,
+    "factionName": "Neutral",
+    "id": 11023,
+    "baseCardId": 11023,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_bonereaper.png"
+  },
+  {
+    "name": "Dawn's Eye",
+    "atk": null,
+    "hp": null,
+    "manaCost": 6,
+    "factionName": "Lyonar Kingdoms",
+    "id": 30024,
+    "baseCardId": 30024,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/artifact_f1_dawnseye.png"
+  },
+  {
+    "name": "Deathblighter",
+    "atk": 3,
+    "hp": 4,
+    "manaCost": 6,
+    "factionName": "Neutral",
+    "id": 10980,
+    "baseCardId": 10980,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_deathblighter.png"
+  },
+  {
+    "name": "Diamond Golem",
+    "atk": 4,
+    "hp": 11,
+    "manaCost": 6,
+    "factionName": "Neutral",
+    "id": 11037,
+    "baseCardId": 11037,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_diamondgolem.png"
+  },
+  {
+    "name": "Draugar Lord",
+    "atk": 4,
+    "hp": 8,
+    "manaCost": 6,
+    "factionName": "Vanar Kindred",
+    "id": 508,
+    "baseCardId": 508,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_draugarlord.png"
+  },
+  {
+    "name": "Dreadnought",
+    "atk": 4,
+    "hp": 6,
+    "manaCost": 6,
+    "factionName": "Magmar Aspects",
+    "id": 424,
+    "baseCardId": 424,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_dreadnaught.png"
+  },
+  {
+    "name": "Dust Wailer",
+    "atk": 3,
+    "hp": 4,
+    "manaCost": 6,
+    "factionName": "Neutral",
+    "id": 11082,
+    "baseCardId": 11082,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_dustwailer.png"
+  },
+  {
+    "name": "Eclipse",
+    "atk": 3,
+    "hp": 7,
+    "manaCost": 6,
+    "factionName": "Neutral",
+    "id": 10986,
+    "baseCardId": 10986,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_eclipse.png"
+  },
+  {
+    "name": "Elyx Stormblade",
+    "atk": 7,
+    "hp": 7,
+    "manaCost": 6,
+    "factionName": "Lyonar Kingdoms",
+    "id": 18,
+    "baseCardId": 18,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_elyxstormblade.png"
+  },
+  {
+    "name": "First Sword of Akrane",
+    "atk": 7,
+    "hp": 7,
+    "manaCost": 6,
+    "factionName": "Neutral",
+    "id": 10984,
+    "baseCardId": 10984,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_swordofakrane.png"
+  },
+  {
+    "name": "Fractal Replication",
+    "atk": null,
+    "hp": null,
+    "manaCost": 6,
+    "factionName": "Magmar Aspects",
+    "id": 20063,
+    "baseCardId": 20063,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f5_fractalreplication.png"
+  },
+  {
+    "name": "Grandmaster Zendo",
+    "atk": 4,
+    "hp": 6,
+    "manaCost": 6,
+    "factionName": "Songhai Empire",
+    "id": 131,
+    "baseCardId": 131,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_grandmasterzendo.png"
+  },
+  {
+    "name": "Grove Lion",
+    "atk": 5,
+    "hp": 5,
+    "manaCost": 6,
+    "factionName": "Neutral",
+    "id": 11077,
+    "baseCardId": 11077,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_pennyarcade03.png"
+  },
+  {
+    "name": "Jax Truesight",
+    "atk": 1,
+    "hp": 1,
+    "manaCost": 6,
+    "factionName": "Neutral",
+    "id": 10963,
+    "baseCardId": 10963,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_jaxtruesight.png"
+  },
+  {
+    "name": "Klaxon",
+    "atk": 6,
+    "hp": 6,
+    "manaCost": 6,
+    "factionName": "Abyssian Host",
+    "id": 330,
+    "baseCardId": 330,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_klaxon.png"
+  },
+  {
+    "name": "Makantor Warbeast",
+    "atk": 4,
+    "hp": 4,
+    "manaCost": 6,
+    "factionName": "Magmar Aspects",
+    "id": 405,
+    "baseCardId": 405,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_mankatorwarbeast.png"
+  },
+  {
+    "name": "Metamorphosis",
+    "atk": null,
+    "hp": null,
+    "manaCost": 6,
+    "factionName": "Magmar Aspects",
+    "id": 20121,
+    "baseCardId": 20121,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f5_metamorphosis.png"
+  },
+  {
+    "name": "Pantheran",
+    "atk": 6,
+    "hp": 6,
+    "manaCost": 6,
+    "factionName": "Vetruvian Imperium",
+    "id": 233,
+    "baseCardId": 233,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_onyxpantheran.png"
+  },
+  {
+    "name": "Quartermaster Gauj",
+    "atk": 5,
+    "hp": 2,
+    "manaCost": 6,
+    "factionName": "Neutral",
+    "id": 11081,
+    "baseCardId": 11081,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_quartermastergauj.png"
+  },
+  {
+    "name": "Ruby Rifter",
+    "atk": 4,
+    "hp": 6,
+    "manaCost": 6,
+    "factionName": "Neutral",
+    "id": 11045,
+    "baseCardId": 11045,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_rubyrifter.png"
+  },
+  {
+    "name": "Serpenti",
+    "atk": 7,
+    "hp": 4,
+    "manaCost": 6,
+    "factionName": "Neutral",
+    "id": 10307,
+    "baseCardId": 10307,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_serpenti.png"
+  },
+  {
+    "name": "Silverbeak",
+    "atk": 6,
+    "hp": 9,
+    "manaCost": 6,
+    "factionName": "Neutral",
+    "id": 11055,
+    "baseCardId": 11055,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_silverbeak.png"
+  },
+  {
+    "name": "Solarius",
+    "atk": 3,
+    "hp": 3,
+    "manaCost": 6,
+    "factionName": "Lyonar Kingdoms",
+    "id": 30,
+    "baseCardId": 30,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_solarius.png"
+  },
+  {
+    "name": "Storm Aratha",
+    "atk": 6,
+    "hp": 5,
+    "manaCost": 6,
+    "factionName": "Neutral",
+    "id": 19035,
+    "baseCardId": 19035,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_monsterlightningbeetle.png"
+  },
+  {
+    "name": "Stormmetal Golem",
+    "atk": 8,
+    "hp": 8,
+    "manaCost": 6,
+    "factionName": "Neutral",
+    "id": 10207,
+    "baseCardId": 10207,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_golemstormmetal.png"
+  },
+  {
+    "name": "The Scientist",
+    "atk": 6,
+    "hp": 6,
+    "manaCost": 6,
+    "factionName": "Neutral",
+    "id": 11047,
+    "baseCardId": 11047,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_thescientist.png"
+  },
+  {
+    "name": "Vorpal Reaver",
+    "atk": 6,
+    "hp": 6,
+    "manaCost": 6,
+    "factionName": "Abyssian Host",
+    "id": 314,
+    "baseCardId": 314,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_daemongate.png"
+  },
+  {
+    "name": "Ancient Grove",
+    "atk": 7,
+    "hp": 7,
+    "manaCost": 7,
+    "factionName": "Vanar Kindred",
+    "id": 514,
+    "baseCardId": 514,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f6_treant.png"
+  },
+  {
+    "name": "Arcane Devourer",
+    "atk": 8,
+    "hp": 4,
+    "manaCost": 7,
+    "factionName": "Abyssian Host",
+    "id": 329,
+    "baseCardId": 329,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_arcanedevourer.png"
+  },
+  {
+    "name": "Astral Crusader",
+    "atk": 7,
+    "hp": 6,
+    "manaCost": 7,
+    "factionName": "Neutral",
+    "id": 11021,
+    "baseCardId": 11021,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_astralcrusader.png"
+  },
+  {
+    "name": "Bounded Lifeforce",
+    "atk": null,
+    "hp": null,
+    "manaCost": 7,
+    "factionName": "Magmar Aspects",
+    "id": 20118,
+    "baseCardId": 20118,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f5_boundedlifeforce.png"
+  },
+  {
+    "name": "Dark Nemesis",
+    "atk": 4,
+    "hp": 10,
+    "manaCost": 7,
+    "factionName": "Neutral",
+    "id": 19046,
+    "baseCardId": 19046,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_darknemesis.png"
+  },
+  {
+    "name": "Dominate Will",
+    "atk": null,
+    "hp": null,
+    "manaCost": 7,
+    "factionName": "Vetruvian Imperium",
+    "id": 20028,
+    "baseCardId": 20028,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f3_enslave.png"
+  },
+  {
+    "name": "Dragonbone Golem",
+    "atk": 10,
+    "hp": 10,
+    "manaCost": 7,
+    "factionName": "Neutral",
+    "id": 10206,
+    "baseCardId": 10206,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_golemdragonbone.png"
+  },
+  {
+    "name": "E'Xun",
+    "atk": 5,
+    "hp": 5,
+    "manaCost": 7,
+    "factionName": "Neutral",
+    "id": 11029,
+    "baseCardId": 11029,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_exun.png"
+  },
+  {
+    "name": "Grailmaster",
+    "atk": 6,
+    "hp": 6,
+    "manaCost": 7,
+    "factionName": "Neutral",
+    "id": 11010,
+    "baseCardId": 11010,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_spiritscribe.png"
+  },
+  {
+    "name": "Grandmaster Z'ir",
+    "atk": 5,
+    "hp": 12,
+    "manaCost": 7,
+    "factionName": "Lyonar Kingdoms",
+    "id": 20,
+    "baseCardId": 20,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f1_grandmasterzir.png"
+  },
+  {
+    "name": "Oserix",
+    "atk": 8,
+    "hp": 6,
+    "manaCost": 7,
+    "factionName": "Vetruvian Imperium",
+    "id": 222,
+    "baseCardId": 222,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f3_anubis.png"
+  },
+  {
+    "name": "Paddo",
+    "atk": 12,
+    "hp": 6,
+    "manaCost": 7,
+    "factionName": "Neutral",
+    "id": 10997,
+    "baseCardId": 10997,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_paddo.png"
+  },
+  {
+    "name": "Pandora",
+    "atk": 3,
+    "hp": 10,
+    "manaCost": 7,
+    "factionName": "Neutral",
+    "id": 10966,
+    "baseCardId": 10966,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_pandora.png"
+  },
+  {
+    "name": "Red Synja",
+    "atk": 7,
+    "hp": 7,
+    "manaCost": 7,
+    "factionName": "Neutral",
+    "id": 10956,
+    "baseCardId": 10956,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_monsterredsynja.png"
+  },
+  {
+    "name": "Rook",
+    "atk": 5,
+    "hp": 5,
+    "manaCost": 7,
+    "factionName": "Neutral",
+    "id": 10990,
+    "baseCardId": 10990,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_rook.png"
+  },
+  {
+    "name": "Silithar Elder",
+    "atk": 6,
+    "hp": 6,
+    "manaCost": 7,
+    "factionName": "Magmar Aspects",
+    "id": 414,
+    "baseCardId": 414,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_silitharelder.png"
+  },
+  {
+    "name": "Spectral Revenant",
+    "atk": 6,
+    "hp": 6,
+    "manaCost": 7,
+    "factionName": "Abyssian Host",
+    "id": 320,
+    "baseCardId": 320,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f4_daemonvoid.png"
+  },
+  {
+    "name": "Storm Kage",
+    "atk": 5,
+    "hp": 10,
+    "manaCost": 7,
+    "factionName": "Songhai Empire",
+    "id": 118,
+    "baseCardId": 118,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f2_stormkage.png"
+  },
+  {
+    "name": "Unstable Leviathan",
+    "atk": 11,
+    "hp": 11,
+    "manaCost": 7,
+    "factionName": "Magmar Aspects",
+    "id": 408,
+    "baseCardId": 408,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_unstableleviathan.png"
+  },
+  {
+    "name": "War Talon",
+    "atk": 4,
+    "hp": 9,
+    "manaCost": 7,
+    "factionName": "Neutral",
+    "id": 11026,
+    "baseCardId": 11026,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_wartalon.png"
+  },
+  {
+    "name": "Whistling Blade",
+    "atk": 2,
+    "hp": 15,
+    "manaCost": 7,
+    "factionName": "Neutral",
+    "id": 19036,
+    "baseCardId": 19036,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_monsterwhistlingblade.png"
+  },
+  {
+    "name": "Zurael, the Lifegiver",
+    "atk": 4,
+    "hp": 7,
+    "manaCost": 7,
+    "factionName": "Neutral",
+    "id": 10996,
+    "baseCardId": 10996,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_zurael.png"
+  },
+  {
+    "name": "Circle of Desiccation",
+    "atk": null,
+    "hp": null,
+    "manaCost": 8,
+    "factionName": "Vetruvian Imperium",
+    "id": 20216,
+    "baseCardId": 20216,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f3_circleofdessication.png"
+  },
+  {
+    "name": "Flaming Stampede",
+    "atk": null,
+    "hp": null,
+    "manaCost": 8,
+    "factionName": "Magmar Aspects",
+    "id": 20219,
+    "baseCardId": 20219,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f5_flamingstampede.png"
+  },
+  {
+    "name": "Khymera",
+    "atk": 5,
+    "hp": 12,
+    "manaCost": 8,
+    "factionName": "Neutral",
+    "id": 11013,
+    "baseCardId": 11013,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_khymera.png"
+  },
+  {
+    "name": "Koan of Horns",
+    "atk": null,
+    "hp": null,
+    "manaCost": 8,
+    "factionName": "Songhai Empire",
+    "id": 20217,
+    "baseCardId": 20217,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f2_koanofhorns.png"
+  },
+  {
+    "name": "Obliterate",
+    "atk": null,
+    "hp": null,
+    "manaCost": 8,
+    "factionName": "Abyssian Host",
+    "id": 20213,
+    "baseCardId": 20213,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f4_veilofunraveling.png"
+  },
+  {
+    "name": "Sky Phalanx",
+    "atk": null,
+    "hp": null,
+    "manaCost": 8,
+    "factionName": "Lyonar Kingdoms",
+    "id": 20220,
+    "baseCardId": 20220,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f1_skyphalanx.png"
+  },
+  {
+    "name": "Spiral Technique",
+    "atk": null,
+    "hp": null,
+    "manaCost": 8,
+    "factionName": "Songhai Empire",
+    "id": 20084,
+    "baseCardId": 20084,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f2_spiraltechnique.png"
+  },
+  {
+    "name": "Winter's Wake",
+    "atk": null,
+    "hp": null,
+    "manaCost": 8,
+    "factionName": "Vanar Kindred",
+    "id": 20212,
+    "baseCardId": 20212,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/icons/icon_f6_winterswake.png"
+  },
+  {
+    "name": "Mandrake",
+    "atk": 6,
+    "hp": 6,
+    "manaCost": 12,
+    "factionName": "Magmar Aspects",
+    "id": 425,
+    "baseCardId": 425,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/f5_mandrake.png"
+  },
+  {
+    "name": "Blood Taura",
+    "atk": 12,
+    "hp": 12,
+    "manaCost": 25,
+    "factionName": "Neutral",
+    "id": 11044,
+    "baseCardId": 11044,
+    "spriteURL": "https://assets-counterplaygames.netdna-ssl.com/production/resources/units/neutral_taura.png"
+  }
+]

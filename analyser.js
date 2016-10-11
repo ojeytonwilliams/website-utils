@@ -2,7 +2,7 @@
 
 var fs = require('fs');
 
-var collectionJSON = fs.readFileSync("collection.json");
+var collectionJSON = fs.readFileSync("./data/collection.json");
 // parse the collection and remove any Tutorial Teacher cards
 var collection = JSON.parse(collectionJSON).filter(x => x["factionName"] != "Tutorial Teacher");
 var argeon = collection.filter(x => x["name"] == "Argeon Highmayne");
